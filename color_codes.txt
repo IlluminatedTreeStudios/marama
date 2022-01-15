@@ -1,0 +1,7 @@
+Color Codes:
+
+MiniMap: 
+- Player Icon: FFA300FF
+
+Health Bar:
+- Full Health: 1A00FFFF
