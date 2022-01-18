@@ -1,0 +1,1818 @@
+﻿Log file open, 01/17/22 23:40:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: marama
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.200111
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Engine.ini]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Engine.ini]
+[2022.01.17-22.40.19:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Engine.ini]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Engine.ini]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.17-22.40.19:242][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.17-22.40.19:243][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.17-22.40.19:243][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.17-22.40.19:243][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.17-22.40.19:243][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.17-22.40.19:243][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.17-22.40.19:243][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.17-22.40.19:243][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.17-22.40.19:243][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Engine.ini]
+[2022.01.17-22.40.19:243][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Engine.ini]
+[2022.01.17-22.40.19:262][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.17-22.40.19:262][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.17-22.40.19:263][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.17-22.40.19:263][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.17-22.40.19:263][  0]LogHAL: Display: Platform has ~ 16 GB [16952647680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.17-22.40.19:263][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.17-22.40.19:263][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.17-22.40.19:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.17-22.40.19:264][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Engine.ini]
+[2022.01.17-22.40.19:264][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Config/Windows/Editor.ini]
+[2022.01.17-22.40.19:264][  0]LogInit: Computer: FISHY
+[2022.01.17-22.40.19:264][  0]LogInit: User: truon
+[2022.01.17-22.40.19:264][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.01.17-22.40.19:264][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.17-22.40.19:264][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.01.17-22.40.19:264][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.17-22.40.19:264][  0]LogMemory: Process Physical Memory: 144.25 MB used, 144.25 MB peak
+[2022.01.17-22.40.19:264][  0]LogMemory: Process Virtual Memory: 116.59 MB used, 116.59 MB peak
+[2022.01.17-22.40.19:264][  0]LogMemory: Physical Memory: 9194.15 MB used,  6973.15 MB free, 16167.30 MB total
+[2022.01.17-22.40.19:264][  0]LogMemory: Virtual Memory: 134203512.00 MB used,  14217.46 MB free, 134217728.00 MB total
+[2022.01.17-22.40.19:270][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.17-22.40.19:300][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.17-22.40.19:301][  0]LogInit: Using OS detected language (en-US).
+[2022.01.17-22.40.19:301][  0]LogInit: Using OS detected locale (de-DE).
+[2022.01.17-22.40.19:305][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.01.17-22.40.19:495][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.17-22.40.19:507][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.17-22.40.19:507][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.17-22.40.19:582][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.01.17-22.40.19:614][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.17-22.40.19:614][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.17-22.40.19:614][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.17-22.40.19:614][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.17-22.40.19:709][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX450' (Feature Level 11_0)
+[2022.01.17-22.40.19:709][  0]LogD3D11RHI:       1928/0/8083 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.01.17-22.40.19:742][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2022.01.17-22.40.19:742][  0]LogD3D11RHI:       128/0/8083 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.01.17-22.40.19:743][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.17-22.40.19:743][  0]LogD3D11RHI:       0/0/8083 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.17-22.40.19:743][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.01.17-22.40.19:744][  0]LogD3D11RHI:     Description : NVIDIA GeForce MX450
+[2022.01.17-22.40.19:744][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.17-22.40.19:744][  0]LogD3D11RHI:     DeviceId    : 1f97
+[2022.01.17-22.40.19:744][  0]LogD3D11RHI:     SubSysId    : 3f8717aa
+[2022.01.17-22.40.19:744][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.17-22.40.19:744][  0]LogD3D11RHI:     DedicatedVideoMemory : 2021847040 bytes
+[2022.01.17-22.40.19:744][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.17-22.40.19:744][  0]LogD3D11RHI:     SharedSystemMemory : 8476323840 bytes
+[2022.01.17-22.40.19:744][  0]LogD3D11RHI:     AdapterLuid : 0 56202
+[2022.01.17-22.40.19:748][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.17-22.40.19:748][  0]LogD3D11RHI:     GPU DeviceId: 0x1f97 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.17-22.40.19:748][  0]LogWindows: EnumDisplayDevices:
+[2022.01.17-22.40.19:748][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2022.01.17-22.40.19:748][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:1)
+[2022.01.17-22.40.19:748][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.01.17-22.40.19:749][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.01.17-22.40.19:749][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX450
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.01.17-22.40.19:749][  0]LogRHI: Texture pool is 1349 MB (70% of 1928 MB)
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI:     Description : NVIDIA GeForce MX450
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI:     DeviceId    : 1f97
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI:     SubSysId    : 3f8717aa
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI:     DedicatedVideoMemory : 2021847040 bytes
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI:     SharedSystemMemory : 8476323840 bytes
+[2022.01.17-22.40.19:749][  0]LogD3D11RHI:     AdapterLuid : 0 56202
+[2022.01.17-22.40.19:805][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.17-22.40.19:805][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.17-22.40.19:805][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.17-22.40.19:816][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.01.17-22.40.19:833][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.17-22.40.20:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.17-22.40.20:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.17-22.40.20:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.17-22.40.20:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.17-22.40.20:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.17-22.40.20:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.17-22.40.20:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.17-22.40.20:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.17-22.40.20:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.17-22.40.20:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.17-22.40.20:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.17-22.40.20:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.17-22.40.20:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.17-22.40.20:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.17-22.40.20:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.17-22.40.20:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.17-22.40.20:099][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.17-22.40.20:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.17-22.40.20:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.17-22.40.20:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.17-22.40.20:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.17-22.40.20:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.17-22.40.20:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.17-22.40.20:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.17-22.40.20:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.17-22.40.20:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.17-22.40.20:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.17-22.40.20:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.17-22.40.20:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.17-22.40.20:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.17-22.40.20:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.17-22.40.20:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.17-22.40.20:174][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.17-22.40.20:180][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.17-22.40.20:201][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.17-22.40.20:222][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.17-22.40.20:222][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Intermediate/Shaders/WorkingDirectory/17472/).
+[2022.01.17-22.40.20:222][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/truon/AppData/Local/Temp/UnrealShaderWorkingDir/B23BE9204D73950F9037FAAC53271A61/'.
+[2022.01.17-22.40.20:222][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.01.17-22.40.20:222][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.17-22.40.20:222][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.17-22.40.20:823][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.17-22.40.20:878][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/truon/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.17-22.40.20:878][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/truon/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.17-22.40.20:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.17-22.40.20:878][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.17-22.40.20:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.17-22.40.20:878][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.17-22.40.20:894][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.17-22.40.20:894][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.17-22.40.20:894][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.17-22.40.20:914][  0]LogDerivedDataCache: Speed tests for C:/Users/truon/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.01.17-22.40.20:914][  0]LogDerivedDataCache: Display: Performance to C:/Users/truon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1476.16MBs, RandomWriteSpeed=49.85MBs. Assigned SpeedClass 'Local'
+[2022.01.17-22.40.20:916][  0]LogDerivedDataCache: Using Local data cache path C:/Users/truon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.17-22.40.20:916][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.17-22.40.20:917][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.17-22.40.20:955][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.17-22.40.20:956][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.17-22.40.20:977][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2022.01.17-22.40.21:336][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.17-22.40.21:336][  0]LogInit: Active device profile: [000001DB6C240F00][000001DB6A584140 49] Windows
+[2022.01.17-22.40.21:337][  0]LogInit: Profiles: [000001DB6C240F00][000001DB6A584140 49] Windows, [000001DB6C202400][000001DB6A58C2C0 49] WindowsNoEditor, [000001DB6C241F00][000001DB6C77E440 49] WindowsServer, [000001DB6C201600][000001DB6C7825C0 49] WindowsClient, [000001DB6C241000][000001DB6C786740 49] IOS, [000001DB6C203A00][000001DB6C78A8C0 49] iPadAir, [000001DB6C243300][000001DB6C78EA40 49] iPadAir2, [000001DB6C195300][000001DB6C792C80 49] IPadPro, [000001DB6C195400][000001DB6A588CC0 49] iPadAir3, [000001DB6C200B00][000001DB6C796E00 49] iPadAir4, [000001DB6C196100][000001DB6C79AF40 49] iPadMini2, [000001DB6C203400][000001DB6C7A30C0 49] iPadMini3, [000001DB6C196C00][000001DB6C7A7240 49] iPadMini4, [000001DB6C202700][000001DB6C7AF3C0 49] iPadMini5, [000001DB6C1A4E00][000001DB6C7FD680 49] iPhone6, [000001DB6C1A4F00][000001DB6C7E76C0 49] iPodTouch6, [000001DB6C242800][000001DB6C805980 49] iPhone7, [000001DB6C242900][000001DB6C8019C0 49] iPodTouch7, [000001DB6C194C00][000001DB6C809B40 49] iPhone5S, [000001DB6C241300][000001DB6C80C140 49] iPhone6Plus, [000001DB6C196A00][000001DB6C8102C0 49] iPhone6S, [000001DB6C242D00][000001DB6C814440 49] iPhone6SPlus, [000001DB6C1A4100][000001DB6C8185C0 49] iPhone7Plus, [000001DB6C195D00][000001DB6C81C740 49] iPhoneSE, [000001DB6C1A4C00][000001DB6C8208C0 49] iPhone8, [000001DB6C194400][000001DB6C824A40 49] iPhone8Plus, [000001DB6C1A6A00][000001DB6C828BC0 49] iPhoneX, [000001DB6C197C00][000001DB6C82CD40 49] iPhoneXS, [000001DB6C1A6900][000001DB6C79EE80 49] iPhoneXSMax, [000001DB6C194B00][000001DB6C830FC0 49] iPhoneXR, [000001DB6C243800][000001DB6C835100 49] iPhone11, [000001DB6C197D00][000001DB6C83D280 49] iPhone11Pro, [000001DB6C241C00][000001DB6C841400 49] iPhone11ProMax, [000001DB6C195100][000001DB6C845580 49] iPhoneSE2, [000001DB6C241200][000001DB6C849700 49] iPhone12Mini, [000001DB6C197100][000001DB6C84D880 49] iPhone12, [000001DB6C240900][000001DB6C851A00 49] iPhone12Pro, [000001DB6C194D00][000001DB6C855B80 49] iPhone12ProMax, [000001DB6C243C00][000001DB6C858180 49] iPadPro105, [000001DB6C197700][000001DB6C85C300 49] iPadPro129, [000001DB6C243000][000001DB6C860480 49] iPadPro97, [000001DB6C194F00][000001DB6C864600 49] iPadPro2_129, [000001DB6C240C00][000001DB6C868780 49] iPad5, [000001DB6C197B00][000001DB6C86C900 49] iPad6, [000001DB6C240400][000001DB6C870A80 49] iPad7, [000001DB6C197E00][000001DB6C874C00 49] iPad8, [000001DB6C241B00][000001DB6C878D80 49] iPadPro11, [000001DB6C196400][000001DB6C87CF00 49] iPadPro2_11, [000001DB6C240800][000001DB6C839040 49] iPadPro3_129, [000001DB6C196800][000001DB6C881180 49] iPadPro4_129, [000001DB6C242F00][000001DB6C8852C0 49] AppleTV, [000001DB6C195200][000001DB6C88D440 49] AppleTV4K, [000001DB6C241700][000001DB6C8915C0 49] TVOS, [000001DB6C197600][000001DB6C895740 49] Mac, [000001DB6C243A00][000001DB6C8998C0 49] MacClient, [000001DB6C196500][000001DB6C89DA40 49] MacNoEditor, [000001DB6C240500][000001DB6C8A1BC0 49] MacServer, [000001DB6C196000][000001DB6C8A41C0 49] Linux, [000001DB6C243B00][000001DB6C8A8340 49] LinuxAArch64, [000001DB6C194300][000001DB6C8AC4C0 49] LinuxNoEditor, [000001DB6C243700][000001DB6C8B0640 49] LinuxAArch64NoEditor, [000001DB6C196600][000001DB6C8B47C0 49] LinuxClient, [000001DB6C242600][000001DB6C8B8940 49] LinuxAArch64Client, [000001DB6C195A00][000001DB6C8BCAC0 49] LinuxServer, [000001DB6C240200][000001DB6C8C0C40 49] LinuxAArch64Server, [000001DB6C195600][000001DB6C8C4DC0 49] Android, [000001DB6C242100][000001DB6C8C8F40 49] Android_Low, [000001DB6C197800][000001DB6C8CD0C0 49] Android_Mid, [000001DB6C240600][000001DB6C889200 49] Android_High, [000001DB6C196300][000001DB6C8D1340 49] Android_Default, [000001DB6C242300][000001DB6C8D5480 49] Android_Adreno4xx, [000001DB6C197000][000001DB6C8D95C0 49] Android_Adreno5xx_Low, [000001DB6C242A00][000001DB6C8E1740 49] Android_Adreno5xx, [000001DB6C194100][000001DB6C8E58C0 49] Android_Adreno6xx, [000001DB6C240B00][000001DB6C8E9A40 49] Android_Adreno6xx_Vulkan, [000001DB6C194A00][000001DB6C8EDBC0 49] Android_Mali_T6xx, [000001DB6C240700][000001DB6C8F01C0 49] Android_Mali_T7xx, [000001DB6C201A00][000001DB6C8F4340 49] Android_Mali_T8xx, [000001DB6C1A4300][000001DB6C8F84C0 49] Android_Mali_G71, [000001DB6C200600][000001DB6C8FC640 49] Android_Mali_G72, [000001DB6C1A5200][000001DB6C9007C0 49] Android_Mali_G72_Vulkan, [000001DB6C203E00][000001DB6C904940 49] Android_Mali_G76, [000001DB6C1A4700][000001DB6C908AC0 49] Android_Mali_G76_Vulkan, [000001DB6C203D00][000001DB6C90CC40 49] Android_Mali_G77, [000001DB6C1A7B00][000001DB6C910DC0 49] Android_Mali_G77_Vulkan, [000001DB6C201B00][000001DB6C914F40 49] Android_Mali_G78, [000001DB6C1A7100][000001DB6C9190C0 49] Android_Mali_G78_Vulkan, [000001DB6C203900][000001DB6C91D240 49] Android_Mali_G710, [000001DB6C1A6C00][000001DB6C8DD380 49] Android_Mali_G710_Vulkan, [000001DB6C203600][000001DB6C9214C0 49] Android_Vulkan_SM5, [000001DB6C1A7800][000001DB6C925600 49] Android_PowerVR_G6xxx, [000001DB6C201900][000001DB6C929740 49] Android_PowerVR_GT7xxx, [000001DB6C1A5D00][000001DB6C9318C0 49] Android_PowerVR_GE8xxx, [000001DB6C202D00][000001DB6C935A40 49] Android_PowerVR_GM9xxx, [000001DB6C1A4800][000001DB6C939BC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001DB6C201C00][000001DB6C93C1C0 49] Android_TegraK1, [000001DB6C1A5000][000001DB6C940340 49] Android_Unknown_Vulkan, [000001DB6C202300][000001DB6C9444C0 49] Lumin, [000001DB6C1A7E00][000001DB6C948640 49] Lumin_Desktop, [000001DB6C202B00][000001DB6C94C7C0 49] HoloLens, 
+[2022.01.17-22.40.21:640][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.17-22.40.21:640][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.17-22.40.21:640][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.17-22.40.21:640][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.17-22.40.21:640][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.17-22.40.21:668][  0]LogNetVersion: marama 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2968793817)
+[2022.01.17-22.40.22:575][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.17-22.40.22:737][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.17-22.40.22:752][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.01.17-22.40.22:752][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.01.17-22.40.22:752][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.17-22.40.23:416][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D9B6547E406A092675A66791A3BFC5B7 | Instance: 8F20B1F14952E5E96453E880DEAC3605 (FISHY-17472).
+[2022.01.17-22.40.23:717][  0]LogPython: Using Python 3.7.7
+[2022.01.17-22.40.25:237][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.17-22.40.25:248][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.17-22.40.25:614][  0]SourceControl: Source control is disabled
+[2022.01.17-22.40.25:614][  0]SourceControl: Source control is disabled
+[2022.01.17-22.40.25:622][  0]SourceControl: Source control is disabled
+[2022.01.17-22.40.25:628][  0]SourceControl: Source control is disabled
+[2022.01.17-22.40.25:651][  0]SourceControl: Source control is disabled
+[2022.01.17-22.40.25:667][  0]LogUProjectInfo: Found projects:
+[2022.01.17-22.40.26:196][  0]LogOpenImageDenoise: OIDN starting up
+[2022.01.17-22.40.26:266][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.17-22.40.26:306][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.17-22.40.26:306][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.17-22.40.26:645][  0]LogCollectionManager: Loaded 0 collections in 0.003385 seconds
+[2022.01.17-22.40.26:701][  0]LogFileCache: Scanning file cache for directory 'C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Collections/' took 0.00s
+[2022.01.17-22.40.26:701][  0]LogFileCache: Scanning file cache for directory 'C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Developers/truon/Collections/' took 0.00s
+[2022.01.17-22.40.26:701][  0]LogFileCache: Scanning file cache for directory 'C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Collections/' took 0.00s
+[2022.01.17-22.40.26:701][  0]LogOcInput: OculusInput pre-init called
+[2022.01.17-22.40.27:314][  0]LogEngine: Initializing Engine...
+[2022.01.17-22.40.27:319][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.01.17-22.40.27:320][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.17-22.40.27:320][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.17-22.40.27:322][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.17-22.40.27:671][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.17-22.40.27:687][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.17-22.40.27:692][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.17-22.40.27:699][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.01.17-22.40.27:700][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.01.17-22.40.27:701][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.17-22.40.27:701][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.17-22.40.27:701][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.17-22.40.27:701][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.17-22.40.27:701][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.17-22.40.27:701][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.17-22.40.27:701][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.17-22.40.27:701][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.17-22.40.27:701][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.17-22.40.27:701][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.17-22.40.27:702][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.17-22.40.27:702][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.17-22.40.27:702][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.17-22.40.27:702][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.17-22.40.27:724][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.17-22.40.27:724][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.17-22.40.27:761][  0]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2022.01.17-22.40.27:767][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.17-22.40.27:771][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.17-22.40.27:771][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.17-22.40.27:772][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.17-22.40.27:772][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.17-22.40.27:772][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.17-22.40.27:775][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.17-22.40.27:775][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.17-22.40.27:775][  0]LogInit: FAudioDevice initialized.
+[2022.01.17-22.40.27:775][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.17-22.40.27:775][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.17-22.40.27:889][  0]LogDerivedDataCache: Saved boot cache 0.11s 94MB C:/Users/truon/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.17-22.40.27:895][  0]LogInit: Texture streaming: Enabled
+[2022.01.17-22.40.27:923][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.01.17-22.40.27:932][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.17-22.40.27:932][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.17-22.40.27:935][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.17-22.40.27:997][  0]LogInit: Transaction tracking system initialized
+[2022.01.17-22.40.28:045][  0]BlueprintLog: New page: Editor Load
+[2022.01.17-22.40.28:182][  0]LocalizationService: Localization service is disabled
+[2022.01.17-22.40.28:235][  0]TimingProfiler: Initialize
+[2022.01.17-22.40.28:235][  0]TimingProfiler: OnSessionChanged
+[2022.01.17-22.40.28:235][  0]LoadingProfiler: Initialize
+[2022.01.17-22.40.28:235][  0]LoadingProfiler: OnSessionChanged
+[2022.01.17-22.40.28:235][  0]NetworkingProfiler: Initialize
+[2022.01.17-22.40.28:235][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.17-22.40.28:236][  0]MemoryProfiler: Initialize
+[2022.01.17-22.40.28:236][  0]MemoryProfiler: OnSessionChanged
+[2022.01.17-22.40.28:573][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.17-22.40.28:573][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.17-22.40.28:678][  0]LogFileCache: Scanning file cache for directory 'C:/Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/' took 0.02s
+[2022.01.17-22.40.29:539][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.17-22.40.29:546][  0]SourceControl: Source control is disabled
+[2022.01.17-22.40.29:546][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.260
+[2022.01.17-22.40.29:546][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.17-22.40.29:546][  0]LightingResults: New page: Lighting Build
+[2022.01.17-22.40.29:550][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.17-22.40.29:550][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.40.29:550][  0]MapCheck: New page: Map Check
+[2022.01.17-22.40.29:550][  0]LightingResults: New page: Lighting Build
+[2022.01.17-22.40.29:735][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.17-22.40.29:741][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.01.17-22.40.29:844][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.01.17-22.40.29:865][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.01.17-22.40.29:867][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.01.17-22.40.29:874][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2022.01.17-22.40.29:886][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.01.17-22.40.29:886][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.17-22.40.29:888][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,55ms to complete.
+[2022.01.17-22.40.29:888][  0]LogFileHelpers: Loading map 'Template_Default' took 0.342
+[2022.01.17-22.40.29:890][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.604
+[2022.01.17-22.40.30:042][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-22.40.30:053][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-22.40.30:062][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-22.40.30:072][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-22.40.30:096][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0188 seconds. Added 3822 classes and 928 folders.
+[2022.01.17-22.40.30:099][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.01.17-22.40.30:101][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.17-22.40.30:101][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:101][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.17-22.40.30:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.01.17-22.40.30:101][  0]LogPakFile: OnPakFileMounted2Time == 0.000184
+[2022.01.17-22.40.30:102][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.17-22.40.30:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.17-22.40.30:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.01.17-22.40.30:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.01.17-22.40.30:102][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.17-22.40.30:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.17-22.40.30:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.01.17-22.40.30:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.01.17-22.40.30:103][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.17-22.40.30:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.17-22.40.30:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.17-22.40.30:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.01.17-22.40.30:104][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.17-22.40.30:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.17-22.40.30:104][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:104][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.01.17-22.40.30:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.01.17-22.40.30:104][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.17-22.40.30:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.17-22.40.30:104][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:104][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.01.17-22.40.30:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.17-22.40.30:105][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.17-22.40.30:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.17-22.40.30:105][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:105][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.01.17-22.40.30:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.01.17-22.40.30:105][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.17-22.40.30:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.17-22.40.30:105][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:105][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.01.17-22.40.30:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.17-22.40.30:106][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.17-22.40.30:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.17-22.40.30:106][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:106][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.01.17-22.40.30:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.01.17-22.40.30:106][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.17-22.40.30:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.17-22.40.30:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.01.17-22.40.30:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.01.17-22.40.30:107][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.17-22.40.30:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.17-22.40.30:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.01.17-22.40.30:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.01.17-22.40.30:107][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.17-22.40.30:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.17-22.40.30:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.01.17-22.40.30:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.01.17-22.40.30:108][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.17-22.40.30:108][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:108][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.17-22.40.30:108][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:108][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.01.17-22.40.30:108][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.01.17-22.40.30:109][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.17-22.40.30:109][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:109][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.17-22.40.30:109][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:109][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.01.17-22.40.30:109][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.01.17-22.40.30:110][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.17-22.40.30:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.17-22.40.30:110][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:110][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.01.17-22.40.30:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.01.17-22.40.30:111][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.17-22.40.30:111][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:111][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.17-22.40.30:111][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:111][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.01.17-22.40.30:111][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.01.17-22.40.30:111][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.17-22.40.30:111][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:111][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.17-22.40.30:112][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:112][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.01.17-22.40.30:112][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.01.17-22.40.30:112][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.17-22.40.30:112][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:112][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.17-22.40.30:112][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:112][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.01.17-22.40.30:112][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.01.17-22.40.30:113][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.17-22.40.30:113][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:113][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.17-22.40.30:113][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:113][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.01.17-22.40.30:113][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.01.17-22.40.30:114][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.17-22.40.30:114][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:114][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.17-22.40.30:114][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:114][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.01.17-22.40.30:114][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2022.01.17-22.40.30:115][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.17-22.40.30:115][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:115][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.17-22.40.30:115][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:115][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.01.17-22.40.30:115][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.01.17-22.40.30:115][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.17-22.40.30:115][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:115][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.17-22.40.30:115][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:116][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.01.17-22.40.30:116][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.01.17-22.40.30:116][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.17-22.40.30:116][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:116][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.17-22.40.30:116][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:116][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.01.17-22.40.30:116][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.01.17-22.40.30:117][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.17-22.40.30:117][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:117][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.17-22.40.30:117][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:117][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.01.17-22.40.30:117][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.01.17-22.40.30:117][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.17-22.40.30:118][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:118][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.17-22.40.30:118][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:118][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.01.17-22.40.30:118][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.01.17-22.40.30:119][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.17-22.40.30:119][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-22.40.30:119][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.17-22.40.30:119][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.17-22.40.30:119][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.01.17-22.40.30:119][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2022.01.17-22.40.30:170][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.17-22.40.30:171][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.01.17-22.40.30:628][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.01.17-22.40.30:900][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.17-22.40.30:902][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.17-22.40.30:904][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.17-22.40.30:982][  0]LogRenderer: Reallocating scene render targets to support 1100x552 Format 10 NumSamples 1 (Frame:1).
+[2022.01.17-22.40.31:089][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.17-22.40.31:090][  0]LogLoad: (Engine Initialization) Total time: 12.80 seconds
+[2022.01.17-22.40.31:090][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.17-22.40.31:211][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.17-22.40.31:256][  1]LogAssetRegistry: Asset discovery search completed in 10.2798 seconds
+[2022.01.17-22.40.31:267][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.01.17-22.40.31:598][  2]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.17-22.40.32:558][  5]LogBlueprint: Warning: [AssetLog] C:\Users\truon\Documents\UNI\Computerspiele\Git\marama\Content\Blueprints\Player\BP_ShootingSystem.uasset: [Compiler] Unable to find local variable with name 'Rotation' for  Get Rotation , scope expected:  Shoot , scope found: SpawnProjectile
+[2022.01.17-22.40.32:559][  5]LogBlueprint: Warning: [AssetLog] C:\Users\truon\Documents\UNI\Computerspiele\Git\marama\Content\Blueprints\Player\BP_ShootingSystem.uasset: [Compiler] Unable to find local variable with name 'Start' for  Get Start , scope expected:  Shoot , scope found: SpawnProjectile
+[2022.01.17-22.40.32:559][  5]LogBlueprint: Warning: [AssetLog] C:\Users\truon\Documents\UNI\Computerspiele\Git\marama\Content\Blueprints\Player\BP_ShootingSystem.uasset: [Compiler] Unable to find local variable with name 'End' for  Get End , scope expected:  Shoot , scope found: SpawnProjectile
+[2022.01.17-22.40.32:559][  5]LogBlueprint: Warning: [AssetLog] C:\Users\truon\Documents\UNI\Computerspiele\Git\marama\Content\Blueprints\Player\BP_ShootingSystem.uasset: [Compiler] Unable to find local variable with name 'Start' for  Get Start , scope expected:  Shoot , scope found: SpawnProjectile
+[2022.01.17-22.40.32:559][  5]LogBlueprint: Warning: [AssetLog] C:\Users\truon\Documents\UNI\Computerspiele\Git\marama\Content\Blueprints\Player\BP_ShootingSystem.uasset: [Compiler] Unable to find local variable with name 'Dmg' for  Get Dmg , scope expected:  Shoot , scope found: SpawnProjectile
+[2022.01.17-22.40.32:559][  5]LogBlueprint: Warning: [AssetLog] C:\Users\truon\Documents\UNI\Computerspiele\Git\marama\Content\Blueprints\Player\BP_ShootingSystem.uasset: [Compiler] Unable to find local variable with name 'Projectile' for  Get Projectile , scope expected:  Shoot , scope found: SpawnProjectile
+[2022.01.17-22.40.32:795][  5]LogTexture: Display: Building textures: GoalIcon (BGRA8, 20X20)
+[2022.01.17-22.40.32:796][  5]LogTexture: Display: Building textures: StepsIcon (BGRA8, 128X128)
+[2022.01.17-22.40.32:796][  5]LogTexture: Display: Building textures: LevelBorder (BGRA8, 80X80)
+[2022.01.17-22.40.32:796][  5]LogTexture: Display: Building textures: DistanceBorder (BGRA8, 180X60)
+[2022.01.17-22.40.32:796][  5]LogTexture: Display: Building textures: TextBorder (BGRA8, 400X90)
+[2022.01.17-22.40.32:796][  5]LogTexture: Display: Building textures: DUMMY_CharacterIcon (BGRA8, 213X199)
+[2022.01.17-22.40.32:796][  5]LogTexture: Display: Building textures: NpcIcon (BGRA8, 64X64)
+[2022.01.17-22.40.32:796][  5]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave LevelUpSound...
+[2022.01.17-22.40.32:796][  5]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Effects/LevelUpSound.LevelUpSound will be modified from 40 to 40.
+[2022.01.17-22.40.33:187][  5]LogTexture: Display: Building textures: GoalCircle (BGRA8, 500X500)
+[2022.01.17-22.40.33:187][  5]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 326508 while cooking SoundWave /Game/Audio/Effects/LevelUpSound.LevelUpSound.
+[2022.01.17-22.40.33:461][  5]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.17-22.40.33:473][  5]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/QuestSystem/QuestActors/QUEST_TEST1.QUEST_TEST1
+[2022.01.17-22.40.33:532][  5]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2022.01.17-22.40.34:404][  5]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.01.17-22.40.34:939][  5]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/HUD/WBP_Quest.WBP_Quest
+[2022.01.17-22.40.35:632][  5]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.17-22.40.39:373][120]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.17-22.40.39:376][120]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.17-22.40.41:243][227]LogSlate: Took 0.001193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.17-22.40.44:091][376]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.01.17-22.40.44:091][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.40.44:098][376]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.17-22.40.44:098][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.40.54:642][  6]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.17-22.41.00:737][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.01.17-22.41.00:822][354]LogMaterial: Display: Missing cached shadermap for Gamma_Body_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: FD7507CFD000CE48D31B0E5B0796D7BC08568B10), compiling. 
+[2022.01.17-22.41.00:914][354]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2022.01.17-22.41.00:916][354]LogMaterial: Display: Missing cached shadermap for Terrain in PCD3D_SM5, Default, SM5 (DDC key hash: ED51C3E268AE9707D42985E3F0BD82963F217B6F), compiling. 
+[2022.01.17-22.41.00:939][354]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2022.01.17-22.41.00:939][354]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2022.01.17-22.41.00:939][354]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2022.01.17-22.41.00:939][354]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2022.01.17-22.41.00:939][354]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2022.01.17-22.41.00:939][354]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.01.17-22.41.00:951][354]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Lvl_QuestSystem.Lvl_QuestSystem
+[2022.01.17-22.41.00:952][354]Cmd: MAP LOAD FILE="../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Levels/Lvl_QuestSystem.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.17-22.41.00:952][354]LightingResults: New page: Lighting Build
+[2022.01.17-22.41.00:952][354]LoadErrors: New page: Loading map: Lvl_QuestSystem.umap
+[2022.01.17-22.41.00:953][354]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.17-22.41.00:953][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.41.00:953][354]MapCheck: New page: Map Check
+[2022.01.17-22.41.00:953][354]LightingResults: New page: Lighting Build
+[2022.01.17-22.41.00:982][354]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.17-22.41.00:991][354]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2022.01.17-22.41.00:994][354]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_QuestSystem'.
+[2022.01.17-22.41.01:187][354]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.17-22.41.01:187][354]LogAIModule: Creating AISystem for world Lvl_QuestSystem
+[2022.01.17-22.41.01:232][354]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.01.17-22.41.01:257][354]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.17-22.41.01:257][354]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,179ms to complete.
+[2022.01.17-22.41.01:257][354]LogFileHelpers: Loading map 'Lvl_QuestSystem' took 0.306
+[2022.01.17-22.41.02:161][401]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.17-22.41.02:175][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.17-22.41.02:175][401]PIE: New page: PIE session: Lvl_QuestSystem (18.01.2022, 00:41:02)
+[2022.01.17-22.41.02:177][401]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.17-22.41.02:179][401]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.17-22.41.02:179][401]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_QuestSystem
+[2022.01.17-22.41.02:185][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005771s)
+[2022.01.17-22.41.02:187][401]LogAIModule: Creating AISystem for world Lvl_QuestSystem
+[2022.01.17-22.41.02:187][401]LogPlayLevel: PIE: World Init took: (0.001842s)
+[2022.01.17-22.41.02:187][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_QuestSystem.Lvl_QuestSystem to /Game/Levels/UEDPIE_0_Lvl_QuestSystem.Lvl_QuestSystem (0.007865s)
+[2022.01.17-22.41.02:237][401]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2022.01.17-22.41.02:239][401]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.17-22.41.02:239][401]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.17-22.41.02:239][401]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.17-22.41.02:239][401]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.17-22.41.02:239][401]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.17-22.41.02:239][401]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.17-22.41.02:239][401]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.17-22.41.02:239][401]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.17-22.41.02:239][401]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.17-22.41.02:240][401]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.17-22.41.02:240][401]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.17-22.41.02:240][401]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.17-22.41.02:240][401]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.17-22.41.02:245][401]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.17-22.41.02:245][401]LogAudioMixer: Display: 1: FrontRight
+[2022.01.17-22.41.02:272][401]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2022.01.17-22.41.02:272][401]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.17-22.41.02:272][401]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.17-22.41.02:272][401]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.17-22.41.02:273][401]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.17-22.41.02:273][401]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.17-22.41.02:273][401]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.17-22.41.02:275][401]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.17-22.41.02:275][401]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.17-22.41.02:275][401]LogInit: FAudioDevice initialized.
+[2022.01.17-22.41.02:275][401]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_QuestSystem'.
+[2022.01.17-22.41.02:291][401]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.17-22.41.02:293][401]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_QuestSystem.Lvl_QuestSystem up for play (max tick rate 60) at 2022.01.17-23.41.02
+[2022.01.17-22.41.02:293][401]LogWorld: Bringing up level for play took: 0.001213
+[2022.01.17-22.41.02:293][401]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.01.17-22.41.02:299][401]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2022.01.17-22.41.02:308][401]PIE: Server logged in
+[2022.01.17-22.41.02:311][401]PIE: Play in editor total start time 0,137 seconds.
+[2022.01.17-22.41.07:071][637]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2022.01.17-22.41.07:071][637]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.17-22.41.07:446][659]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.01.17-22.41.07:446][659]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.17-22.41.08:039][693]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.01.17-22.41.08:039][693]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.17-22.41.08:525][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2022.01.17-22.41.08:525][721]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.01.17-22.41.08:763][735]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2022.01.17-22.41.08:763][735]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.01.17-22.41.08:788][736]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.01.17-22.41.08:788][736]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.01.17-22.41.09:671][773]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.01.17-22.41.09:671][773]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.01.17-22.41.11:115][857]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.01.17-22.41.11:115][857]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.17-22.41.12:358][929]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.01.17-22.41.12:358][929]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.17-22.41.12:358][929]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.01.17-22.41.12:359][929]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.17-22.41.12:977][965]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.01.17-22.41.12:977][965]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.17-22.41.13:180][976]LogBlueprintUserMessages: [BP_Player_C_0] AttackStance: true
+[2022.01.17-22.41.41:702][687]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:718][688]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:735][689]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:752][690]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:768][691]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:786][692]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:802][693]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:819][694]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:835][695]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:852][696]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:869][697]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:885][698]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:902][699]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:918][700]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:935][701]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:951][702]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:968][703]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.41:985][704]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.42:002][705]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.42:018][706]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.42:035][707]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.42:052][708]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.42:068][709]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.41.42:085][710]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorFloat
+[2022.01.17-22.42.06:062][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-22.42.06:062][143]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_QuestSystem
+[2022.01.17-22.42.06:062][143]LogWorld: UWorld::CleanupWorld for Lvl_QuestSystem, bSessionEnded=true, bCleanupResources=true
+[2022.01.17-22.42.06:063][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.42.06:076][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.17-22.42.06:081][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.42.06:102][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-22.42.06:102][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.17-22.42.06:103][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.17-22.42.06:129][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.01.17-22.42.06:149][144]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.01.17-22.42.21:374][ 44]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/Player/AB_Player.AB_Player
+[2022.01.17-22.42.21:381][ 44]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.01.17-22.42.21:385][ 44]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.01.17-22.42.21:461][ 44]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.17-22.42.21:532][ 44]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.17-22.42.21:533][ 44]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.01.17-22.42.22:104][ 44]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.01.17-22.42.22:782][ 44]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.01.17-22.42.56:935][ 37]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.01.17-22.42.56:935][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.42.56:946][ 37]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.01.17-22.42.56:946][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.42.57:040][ 37]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.01.17-22.42.57:040][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.43.34:254][505]LogSlate: Window 'Plugins' being destroyed
+[2022.01.17-22.43.34:257][505]LogSlate: Window 'Plugins' being destroyed
+[2022.01.17-22.43.34:257][505]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.01.17-22.43.36:330][612]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.01.17-22.44.14:742][453]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2022.01.17-22.44.41:829][558]LogSlate: Window 'Save Asset As' being destroyed
+[2022.01.17-22.44.49:567][558]LogSlate: Window 'Pick Row Structure' being destroyed
+[2022.01.17-22.45.00:579][195]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2022.01.17-22.45.13:107][327]LogSlate: Window 'Save Asset As' being destroyed
+[2022.01.17-22.45.18:990][327]LogSlate: Window 'Pick Row Structure' being destroyed
+[2022.01.17-22.45.21:024][433]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2022.01.17-22.45.45:036][577]LogSlate: Window 'Save Asset As' being destroyed
+[2022.01.17-22.45.58:032][313]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DT_Tags_Combat.DT_Tags_Combat
+[2022.01.17-22.48.55:758][437]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2022.01.17-22.48.55:758][437]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2022.01.17-22.49.01:984][806]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2022.01.17-22.49.37:751][862]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2022.01.17-22.49.37:751][862]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2022.01.17-22.49.40:831][ 44]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2022.01.17-22.53.42:878][879]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2022.01.17-22.54.24:464][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DT_Tags_Combat" FILE="../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/DT_Tags_Combat.uasset" SILENT=true
+[2022.01.17-22.54.24:465][306]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_Tags_Combat61ABA28642164916F898DE98AEB87944.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/DT_Tags_Combat.uasset'
+[2022.01.17-22.54.24:493][306]AssetCheck: New page: Asset Save: DT_Tags_Combat
+[2022.01.17-22.54.24:493][306]LogContentValidation: Display: Validating DataTable /Game/DT_Tags_Combat.DT_Tags_Combat
+[2022.01.17-22.54.46:064][399]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.17-22.54.58:970][ 67]LogRenderer: Reallocating scene render targets to support 1108x712 Format 10 NumSamples 1 (Frame:1).
+[2022.01.17-22.57.46:255][147]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.17-22.57.46:262][147]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.17-22.57.46:266][147]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2022.01.17-22.57.46:475][147]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2022.01.17-22.57.46:477][147]LogPlayLevel: PlayLevel: Blueprint regeneration took 215 ms (1 blueprints)
+[2022.01.17-22.57.46:477][147]PIE: New page: PIE session: Lvl_QuestSystem (18.01.2022, 00:57:46)
+[2022.01.17-22.57.46:479][147]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_QuestSystem
+[2022.01.17-22.57.46:483][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003906s)
+[2022.01.17-22.57.46:484][147]LogAIModule: Creating AISystem for world Lvl_QuestSystem
+[2022.01.17-22.57.46:485][147]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2022.01.17-22.57.46:485][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_QuestSystem.Lvl_QuestSystem to /Game/Levels/UEDPIE_0_Lvl_QuestSystem.Lvl_QuestSystem (0.005857s)
+[2022.01.17-22.57.46:568][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.01.17-22.57.46:569][147]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.17-22.57.46:569][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.17-22.57.46:569][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.17-22.57.46:569][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.17-22.57.46:569][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.17-22.57.46:569][147]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.17-22.57.46:569][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.17-22.57.46:569][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.17-22.57.46:569][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.17-22.57.46:570][147]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.17-22.57.46:570][147]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.17-22.57.46:570][147]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.17-22.57.46:570][147]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.17-22.57.46:572][147]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.17-22.57.46:572][147]LogAudioMixer: Display: 1: FrontRight
+[2022.01.17-22.57.46:583][147]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2022.01.17-22.57.46:583][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.17-22.57.46:583][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.17-22.57.46:583][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.17-22.57.46:584][147]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.17-22.57.46:584][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.17-22.57.46:584][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.17-22.57.46:585][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.17-22.57.46:585][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.17-22.57.46:585][147]LogInit: FAudioDevice initialized.
+[2022.01.17-22.57.46:585][147]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_QuestSystem'.
+[2022.01.17-22.57.46:640][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-22.57.46:641][147]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.17-22.57.46:642][147]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_QuestSystem.Lvl_QuestSystem up for play (max tick rate 60) at 2022.01.17-23.57.46
+[2022.01.17-22.57.46:642][147]LogWorld: Bringing up level for play took: 0.000753
+[2022.01.17-22.57.46:642][147]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.01.17-22.57.46:648][147]PIE: Server logged in
+[2022.01.17-22.57.46:648][147]PIE: Play in editor total start time 0,387 seconds.
+[2022.01.17-22.57.46:762][149]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.01.17-22.57.48:562][256]LogBlueprintUserMessages: [BP_Player_C_0] true
+[2022.01.17-22.57.49:331][302]LogBlueprintUserMessages: [BP_Player_C_0] true
+[2022.01.17-22.57.49:998][342]LogBlueprintUserMessages: [BP_Player_C_0] true
+[2022.01.17-22.57.50:661][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-22.57.50:661][379]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_QuestSystem
+[2022.01.17-22.57.50:662][379]LogSlate: Window 'marama Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.17-22.57.50:670][379]LogWorld: UWorld::CleanupWorld for Lvl_QuestSystem, bSessionEnded=true, bCleanupResources=true
+[2022.01.17-22.57.50:670][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.57.50:678][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.17-22.57.50:684][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.57.50:712][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.17-22.57.50:713][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.17-22.57.50:721][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.01.17-22.57.50:754][380]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.01.17-22.58.00:687][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DT_Tags_Combat" FILE="../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/DT_Tags_Combat.uasset" SILENT=true
+[2022.01.17-22.58.00:688][955]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_Tags_Combat69C60B8F474B3131CB1566AEF5B3C4DD.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/DT_Tags_Combat.uasset'
+[2022.01.17-22.58.00:701][955]AssetCheck: New page: Asset Save: DT_Tags_Combat
+[2022.01.17-22.58.00:701][955]LogContentValidation: Display: Validating DataTable /Game/DT_Tags_Combat.DT_Tags_Combat
+[2022.01.17-22.58.11:586][593]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.17-22.58.11:592][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.17-22.58.11:592][593]PIE: New page: PIE session: Lvl_QuestSystem (18.01.2022, 00:58:11)
+[2022.01.17-22.58.11:592][593]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_QuestSystem
+[2022.01.17-22.58.11:595][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002601s)
+[2022.01.17-22.58.11:596][593]LogAIModule: Creating AISystem for world Lvl_QuestSystem
+[2022.01.17-22.58.11:596][593]LogPlayLevel: PIE: World Init took: (0.001542s)
+[2022.01.17-22.58.11:597][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_QuestSystem.Lvl_QuestSystem to /Game/Levels/UEDPIE_0_Lvl_QuestSystem.Lvl_QuestSystem (0.004302s)
+[2022.01.17-22.58.11:624][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.01.17-22.58.11:624][593]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.17-22.58.11:624][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.17-22.58.11:624][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.17-22.58.11:624][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.17-22.58.11:624][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.17-22.58.11:624][593]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.17-22.58.11:624][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.17-22.58.11:624][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.17-22.58.11:624][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.17-22.58.11:625][593]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.17-22.58.11:625][593]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.17-22.58.11:625][593]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.17-22.58.11:625][593]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.17-22.58.11:626][593]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.17-22.58.11:626][593]LogAudioMixer: Display: 1: FrontRight
+[2022.01.17-22.58.11:635][593]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2022.01.17-22.58.11:636][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.17-22.58.11:636][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.17-22.58.11:636][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.17-22.58.11:636][593]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.17-22.58.11:636][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.17-22.58.11:636][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.17-22.58.11:637][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.17-22.58.11:637][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.17-22.58.11:637][593]LogInit: FAudioDevice initialized.
+[2022.01.17-22.58.11:637][593]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_QuestSystem'.
+[2022.01.17-22.58.11:687][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-22.58.11:687][593]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.17-22.58.11:688][593]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_QuestSystem.Lvl_QuestSystem up for play (max tick rate 60) at 2022.01.17-23.58.11
+[2022.01.17-22.58.11:689][593]LogWorld: Bringing up level for play took: 0.000687
+[2022.01.17-22.58.11:689][593]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.01.17-22.58.11:695][593]PIE: Server logged in
+[2022.01.17-22.58.11:696][593]PIE: Play in editor total start time 0,105 seconds.
+[2022.01.17-22.58.12:138][618]LogBlueprintUserMessages: [BP_Player_C_0] true
+[2022.01.17-22.58.12:554][643]LogBlueprintUserMessages: [BP_Player_C_0] true
+[2022.01.17-22.58.12:888][663]LogBlueprintUserMessages: [BP_Player_C_0] true
+[2022.01.17-22.58.13:372][692]LogBlueprintUserMessages: [BP_Player_C_0] true
+[2022.01.17-22.58.16:258][865]LogBlueprintUserMessages: [BP_Player_C_0] true
+[2022.01.17-22.58.16:607][886]LogBlueprintUserMessages: [BP_Player_C_0] true
+[2022.01.17-22.58.16:841][900]LogBlueprintUserMessages: [BP_Player_C_0] true
+[2022.01.17-22.58.17:071][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-22.58.17:071][912]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_QuestSystem
+[2022.01.17-22.58.17:072][912]LogSlate: Window 'marama Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.17-22.58.17:080][912]LogWorld: UWorld::CleanupWorld for Lvl_QuestSystem, bSessionEnded=true, bCleanupResources=true
+[2022.01.17-22.58.17:081][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.58.17:088][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.17-22.58.17:093][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-22.58.17:119][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.17-22.58.17:121][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.17-22.58.17:127][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.01.17-22.58.17:157][913]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.01.17-22.58.20:229][994]LogSlate: Window 'Warning' being destroyed
+[2022.01.17-22.58.20:235][994]Message dialog closed, result: Ok, title: Warning, text: Invalid Tags that have been removed: 
+
+Combat.Attacks.Ranged.Renamed
+
+[2022.01.17-22.58.26:983][276]LogSlate: Window 'Warning' being destroyed
+[2022.01.17-22.58.26:987][276]Message dialog closed, result: Ok, title: Warning, text: Invalid Tags that have been removed: 
+
+Combat.Attacks.Ranged.Renamed
+
+[2022.01.17-22.58.54:085][825]BlueprintLog: New page: Compile BP_Player
+[2022.01.17-22.58.54:166][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.01.17-22.59.04:325][428]LogSlate: Window 'DT_Tags_Combat' being destroyed
+[2022.01.17-22.59.05:534][496]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DT_Tags_Movement.DT_Tags_Movement
+[2022.01.17-23.01.13:087][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DT_Tags_Movement" FILE="../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/DT_Tags_Movement.uasset" SILENT=true
+[2022.01.17-23.01.13:088][757]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_Tags_MovementA2A645AB4B5ECA952CB720A0B3954C52.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/DT_Tags_Movement.uasset'
+[2022.01.17-23.01.13:105][757]AssetCheck: New page: Asset Save: DT_Tags_Movement
+[2022.01.17-23.01.13:106][757]LogContentValidation: Display: Validating DataTable /Game/DT_Tags_Movement.DT_Tags_Movement
+[2022.01.17-23.01.25:100][448]LogSlate: Window 'DT_Tags_Movement' being destroyed
+[2022.01.17-23.02.16:652][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.01.17-23.02.16:655][322]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_QuestSystem' took 0.037
+[2022.01.17-23.02.16:656][322]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player/BP_Player] ([2] browsable assets)...
+[2022.01.17-23.02.16:696][322]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Player/BP_Player.BP_Player_C]
+[2022.01.17-23.02.16:718][322]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2022.01.17-23.02.16:718][322]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Player]
+[2022.01.17-23.02.16:896][322]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/BP_Player_Auto14A83939740C2E4D2704819B4CF505329.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Autosaves/Game/Blueprints/Player/BP_Player_Auto1.uasset'
+[2022.01.17-23.02.16:897][322]LogFileHelpers: Auto-saving content packages took 0.242
+[2022.01.17-23.09.02:413][732]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/Player/AB_Player.AB_Player
+[2022.01.17-23.09.02:419][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.17-23.09.03:027][732]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.01.17-23.10.49:021][608]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.17-23.11.20:806][444]LogMetaData: Removing '/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_States.S_MovementSettings_States' ref from Metadata '/Game/Blueprints/Structs/MovementSettings/S_MovementSettings_States.PackageMetaData'
+[2022.01.17-23.11.20:809][444]LogMetaData: Removing '/Game/Blueprints/Structures/MovementSettings/S_MovementSettings.S_MovementSettings' ref from Metadata '/Game/Blueprints/Structs/MovementSettings/S_MovementSettings.PackageMetaData'
+[2022.01.17-23.11.20:841][444]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_StatesB9CF6B724827D0F2A0ED0CBAC810E601.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings_States.uasset'
+[2022.01.17-23.11.20:842][444]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings23CBA192414ACD7C53E12B8EA55895CB.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings.uasset'
+[2022.01.17-23.11.20:965][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.01.17-23.11.20:994][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.01.17-23.11.21:029][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.01.17-23.11.21:057][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.17-23.11.21:076][444]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_MovementSpeed06543FE94F30FBA6468D2D90F924C420.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Data/Movement/DT_MovementSpeed.uasset'
+[2022.01.17-23.11.21:168][444]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.17-23.11.21:168][444]LogContentValidation: Display: Validating DataTable /Game/Blueprints/Data/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.11.21:168][444]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_States.S_MovementSettings_States
+[2022.01.17-23.11.21:168][444]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings.S_MovementSettings
+[2022.01.17-23.11.40:920][566]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.17-23.11.46:502][885]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_States.S_MovementSettings_States
+[2022.01.17-23.11.49:042][ 27]LogSlate: Took 0.005249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.01.17-23.11.51:620][181]LogSlate: Window 'S_MovementSettings_States' being destroyed
+[2022.01.17-23.11.52:408][225]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings.S_MovementSettings
+[2022.01.17-23.12.24:291][126]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings5094512F42181E93A42A4A8C43C59209.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings.uasset'
+[2022.01.17-23.12.24:304][126]AssetCheck: New page: Asset Save: S_MovementSettings
+[2022.01.17-23.12.24:304][126]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings.S_MovementSettings
+[2022.01.17-23.12.26:152][226]LogSlate: Window 'S_MovementSettings' being destroyed
+[2022.01.17-23.12.27:205][286]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_States.S_MovementSettings_States
+[2022.01.17-23.12.28:126][330]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_StatesC14473484FF1035FD51B84B199A290FB.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings_States.uasset'
+[2022.01.17-23.12.28:139][330]AssetCheck: New page: Asset Save: S_MovementSettings_States
+[2022.01.17-23.12.28:139][330]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_States.S_MovementSettings_States
+[2022.01.17-23.12.29:104][385]LogSlate: Window 'S_MovementSettings_States' being destroyed
+[2022.01.17-23.13.42:536][611]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_MovementSpeedE9BA1F8B458020DC96CB85AB2D0F772B.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/DataTables/Movement/DT_MovementSpeed.uasset'
+[2022.01.17-23.13.42:613][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.01.17-23.13.42:652][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.01.17-23.13.42:679][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.01.17-23.13.42:776][611]AssetCheck: New page: Asset Save: DT_MovementSpeed
+[2022.01.17-23.13.42:776][611]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DataTables/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.14.16:337][528]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DT_Tags_Combat.DT_Tags_Combat
+[2022.01.17-23.14.19:735][727]LogSlate: Window 'DT_Tags_Combat' being destroyed
+[2022.01.17-23.14.20:622][778]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DT_Tags_Movement.DT_Tags_Movement
+[2022.01.17-23.14.27:786][201]LogSlate: Window 'DT_Tags_Movement' being destroyed
+[2022.01.17-23.14.45:171][225]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.14.48:767][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2022.01.17-23.15.11:088][711]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_MovementSpeed2117EF55472F2181E9285A9879221757.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/DataTables/Movement/DT_MovementSpeed.uasset'
+[2022.01.17-23.15.11:101][711]AssetCheck: New page: Asset Save: DT_MovementSpeed
+[2022.01.17-23.15.11:101][711]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DataTables/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.15.12:419][786]LogSlate: Window 'DT_MovementSpeed' being destroyed
+[2022.01.17-23.15.12:423][786]LogSlate: Window 'DT_MovementSpeed' being destroyed
+[2022.01.17-23.15.18:098][118]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.15.30:135][752]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_Tags_MovementE3B716E04159F05DD36AC5946F3B41AB.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/DataTables/DT_Tags_Movement.uasset'
+[2022.01.17-23.15.30:135][752]LogUObjectGlobals: Warning: Failed to find object 'DataTable /Game/DT_Tags_Combat.DT_Tags_Combat'
+[2022.01.17-23.15.30:136][752]LogUObjectGlobals: Warning: Failed to find object 'DataTable /Game/DT_Tags_Movement.DT_Tags_Movement'
+[2022.01.17-23.15.30:136][752]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_Tags_Combat3817C1554C4CAF771221CC9D80B8BF57.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/DataTables/DT_Tags_Combat.uasset'
+[2022.01.17-23.15.30:268][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.01.17-23.15.30:298][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.17-23.15.30:335][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.01.17-23.15.30:363][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.01.17-23.15.30:465][752]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.17-23.15.30:465][752]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DataTables/DT_Tags_Combat.DT_Tags_Combat
+[2022.01.17-23.15.30:465][752]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DataTables/DT_Tags_Movement.DT_Tags_Movement
+[2022.01.17-23.15.34:271][963]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.17-23.15.34:286][963]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.17-23.15.35:440][ 32]LogContentBrowser: Attempting asset rename: NewFolder -> Tag
+[2022.01.17-23.15.35:441][ 32]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.17-23.15.38:824][235]LogContentBrowser: Attempting asset rename: Tag -> Tags
+[2022.01.17-23.15.41:604][372]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_Tags_CombatE046DD094AE6A9CD5661A49F7F34014F.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/DataTables/Tags/DT_Tags_Combat.uasset'
+[2022.01.17-23.15.41:605][372]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_Tags_Movement08A3168B41139A9B0AF230852A430E30.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/DataTables/Tags/DT_Tags_Movement.uasset'
+[2022.01.17-23.15.41:697][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.01.17-23.15.41:727][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.17-23.15.41:765][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.01.17-23.15.41:790][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.01.17-23.15.41:869][372]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.17-23.15.41:869][372]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DataTables/Tags/DT_Tags_Combat.DT_Tags_Combat
+[2022.01.17-23.15.41:869][372]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DataTables/Tags/DT_Tags_Movement.DT_Tags_Movement
+[2022.01.17-23.15.43:028][438]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.15.43:627][474]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.15.44:433][520]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.15.51:533][946]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.15.53:166][ 44]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2022.01.17-23.15.54:035][ 96]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.15.58:442][357]LogContentBrowser: Verbose: The majority of assets in the view are of type: UserDefinedStruct
+[2022.01.17-23.16.27:812][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2022.01.17-23.16.27:816][757]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_QuestSystem' took 0.046
+[2022.01.17-23.16.27:817][757]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_Player] ([2] browsable assets)...
+[2022.01.17-23.16.27:832][757]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2022.01.17-23.16.27:832][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Player]
+[2022.01.17-23.16.28:047][757]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/BP_Player_Auto245806A5C41ADE840D1B5D3A2D3A2FB94.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Autosaves/Game/Blueprints/Player/BP_Player_Auto2.uasset'
+[2022.01.17-23.16.28:049][757]LogFileHelpers: Auto-saving content packages took 0.234
+[2022.01.17-23.16.44:420][875]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.17-23.16.44:420][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-23.16.55:166][488]BlueprintLog: New page: Compile AB_Player
+[2022.01.17-23.16.55:249][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.01.17-23.18.02:549][682]LogEditorTransaction: Undo Delete current selection
+[2022.01.17-23.18.02:621][682]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.17-23.19.28:336][842]LogBlueprint: Error: [AssetLog] C:\Users\truon\Documents\UNI\Computerspiele\Git\marama\Content\Blueprints\Player\BP_Player.uasset: [Compiler] The variable MovementSettings_Speed declared in  BP_Player  has an invalid type Structure
+[2022.01.17-23.19.43:114][726]LogEditorTransaction: Undo Paste Variable: MovementSettings_Speed
+[2022.01.17-23.19.43:121][726]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.BP_Player_C_0.CharacterMesh0) Component already registered.
+[2022.01.17-23.19.43:209][726]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.17-23.20.39:112][ 36]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2022.01.17-23.20.43:558][299]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.20.44:945][382]LogContentBrowser: Verbose: The majority of assets in the view are of type: UserDefinedStruct
+[2022.01.17-23.20.46:183][455]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_States.S_MovementSettings_States
+[2022.01.17-23.20.53:029][862]LogSlate: Window 'S_MovementSettings_States' being destroyed
+[2022.01.17-23.20.54:595][954]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings.S_MovementSettings
+[2022.01.17-23.20.58:846][204]LogSlate: Window 'S_MovementSettings' being destroyed
+[2022.01.17-23.20.59:992][271]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.21.04:009][512]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.21.05:629][609]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.21.08:029][737]LogSlate: Window 'DT_MovementSpeed' being destroyed
+[2022.01.17-23.21.46:390][ 35]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.21.47:451][ 97]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.21.48:437][156]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.21.49:817][238]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.21.50:786][296]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.21.50:970][307]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.21.58:325][687]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.17-23.22.31:580][687]LogSlate: Window 'Pick Row Structure' being destroyed
+[2022.01.17-23.22.31:586][687]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2022.01.17-23.22.31:598][687]LogContentBrowser: Creating deferred item: NewDataTable
+[2022.01.17-23.22.32:762][752]LogContentBrowser: Attempting asset rename: NewDataTable -> NewDataTable
+[2022.01.17-23.22.32:762][752]LogContentBrowser: End creating deferred item NewDataTable
+[2022.01.17-23.22.33:028][767]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/Movement/NewDataTable.NewDataTable
+[2022.01.17-23.22.36:494][969]LogSlate: Window 'NewDataTable' being destroyed
+[2022.01.17-23.22.38:477][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.01.17-23.22.40:038][ 84]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.17-23.22.40:107][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.01.17-23.22.41:702][179]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.22.45:671][413]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2022.01.17-23.23.00:409][228]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.17-23.23.10:492][746]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.17-23.23.22:292][327]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.17-23.23.29:953][779]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.23.31:560][874]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.23.32:009][901]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.23.32:226][914]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2022.01.17-23.23.33:803][  8]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.23.34:671][ 58]LogContentBrowser: Verbose: The majority of assets in the view are of type: UserDefinedStruct
+[2022.01.17-23.23.39:793][347]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings.S_MovementSettings
+[2022.01.17-23.23.48:744][878]LogSlate: Window 'S_MovementSettings' being destroyed
+[2022.01.17-23.24.45:792][286]LogContentBrowser: Attempting asset rename: S_MovementSettings_States -> S_MovementSettings_Pawns
+[2022.01.17-23.24.45:807][286]LogMetaData: Removing '/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.S_MovementSettings_Pawns' ref from Metadata '/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_States.PackageMetaData'
+[2022.01.17-23.24.45:841][286]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_Pawns34501EF244306AB2358021BA5F76DCB5.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.uasset'
+[2022.01.17-23.24.45:919][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.01.17-23.24.45:961][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.01.17-23.24.45:986][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.17-23.24.46:009][286]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_MovementSpeedE382CADB435AC8A0C6C0178593CFB59C.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/DataTables/Movement/DT_MovementSpeed.uasset'
+[2022.01.17-23.24.46:097][286]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.17-23.24.46:097][286]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DataTables/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.24.46:097][286]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.S_MovementSettings_Pawns
+[2022.01.17-23.24.49:588][494]LogContentBrowser: Attempting asset rename: S_MovementSettings -> S_MovementSettings_Speed
+[2022.01.17-23.24.49:609][494]LogMetaData: Removing '/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Speed.S_MovementSettings_Speed' ref from Metadata '/Game/Blueprints/Structures/MovementSettings/S_MovementSettings.PackageMetaData'
+[2022.01.17-23.24.49:642][494]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_Speed4A19E4A24CE118DC0722C7A999232262.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings_Speed.uasset'
+[2022.01.17-23.24.49:733][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.01.17-23.24.49:767][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.01.17-23.24.49:792][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.01.17-23.24.49:810][494]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_Pawns910A4A0A4D815C47BBE694BA1E67C17E.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.uasset'
+[2022.01.17-23.24.49:887][494]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.17-23.24.49:887][494]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.S_MovementSettings_Pawns
+[2022.01.17-23.24.49:888][494]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Speed.S_MovementSettings_Speed
+[2022.01.17-23.24.53:108][681]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.S_MovementSettings_Pawns
+[2022.01.17-23.25.05:378][405]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_Pawns19FF94B4404AB5A037E55BB438189681.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.uasset'
+[2022.01.17-23.25.05:395][405]AssetCheck: New page: Asset Save: S_MovementSettings_Pawns
+[2022.01.17-23.25.05:395][405]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.S_MovementSettings_Pawns
+[2022.01.17-23.25.26:962][681]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_PawnsA7DA8F4545743A29C8A4B6BCE886D1E1.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.uasset'
+[2022.01.17-23.25.26:974][681]AssetCheck: New page: Asset Save: S_MovementSettings_Pawns
+[2022.01.17-23.25.26:974][681]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.S_MovementSettings_Pawns
+[2022.01.17-23.25.36:212][228]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_PawnsFCCA407547C1EB9162606CB5EEDF034A.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.uasset'
+[2022.01.17-23.25.36:228][228]AssetCheck: New page: Asset Save: S_MovementSettings_Pawns
+[2022.01.17-23.25.36:228][228]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.S_MovementSettings_Pawns
+[2022.01.17-23.25.36:835][263]LogSlate: Window 'S_MovementSettings_Pawns' being destroyed
+[2022.01.17-23.25.36:838][263]LogSlate: Window 'S_MovementSettings_Pawns' being destroyed
+[2022.01.17-23.25.39:633][428]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.25.40:569][484]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.25.41:291][527]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.26.34:891][730]Cmd: TRANSACTION UNDO
+[2022.01.17-23.26.34:891][730]LogEditorTransaction: Undo Reset Data Table Row to Default Values
+[2022.01.17-23.26.34:970][730]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.17-23.26.37:366][856]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.26.40:749][ 59]LogContentBrowser: Verbose: The majority of assets in the view are of type: UserDefinedStruct
+[2022.01.17-23.26.41:324][ 93]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.S_MovementSettings_Pawns
+[2022.01.17-23.26.43:057][192]LogSlate: Window 'S_MovementSettings_Pawns' being destroyed
+[2022.01.17-23.26.43:060][192]LogSlate: Window 'S_MovementSettings_Pawns' being destroyed
+[2022.01.17-23.26.44:473][276]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Speed.S_MovementSettings_Speed
+[2022.01.17-23.26.47:592][446]LogSlate: Window 'S_MovementSettings_Speed' being destroyed
+[2022.01.17-23.27.00:316][ 59]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_MovementSettings_Pawns_13' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_MovementSettings_Pawns_13' is empty
+[2022.01.17-23.27.01:514][129]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_MovementSettings_Pawns_15' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_MovementSettings_Pawns_15' is empty
+[2022.01.17-23.27.02:861][208]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_MovementSettings_Pawns_17' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_MovementSettings_Pawns_17' is empty
+[2022.01.17-23.27.04:008][275]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_MovementSettings_Pawns_19' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_MovementSettings_Pawns_19' is empty
+[2022.01.17-23.27.12:020][754]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_MovementSettings_Pawns_21' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_MovementSettings_Pawns_21' is empty
+[2022.01.17-23.27.15:724][975]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_MovementSettings_Pawns_23' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_MovementSettings_Pawns_23' is empty
+[2022.01.17-23.27.17:378][ 73]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_MovementSettings_Pawns_25' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_MovementSettings_Pawns_25' is empty
+[2022.01.17-23.27.28:089][712]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_Speed80B22F4D4F1DEE65DFCDADBAEE8886B2.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings_Speed.uasset'
+[2022.01.17-23.27.28:104][712]AssetCheck: New page: Asset Save: S_MovementSettings_Speed
+[2022.01.17-23.27.28:104][712]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Speed.S_MovementSettings_Speed
+[2022.01.17-23.27.28:959][762]LogSlate: Window 'S_MovementSettings_Speed' being destroyed
+[2022.01.17-23.27.37:938][222]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_MovementSpeed250B2E3148FB10CF1FD6128484FD92AE.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/DataTables/Movement/DT_MovementSpeed.uasset'
+[2022.01.17-23.27.37:949][222]AssetCheck: New page: Asset Save: DT_MovementSpeed
+[2022.01.17-23.27.37:949][222]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DataTables/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.27.46:769][747]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.27.47:201][771]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.27.52:738][101]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.28.05:178][469]LogSlate: Window 'Pick Row Structure' being destroyed
+[2022.01.17-23.28.05:184][469]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2022.01.17-23.28.05:195][469]LogContentBrowser: Creating deferred item: NewDataTable
+[2022.01.17-23.28.08:739][674]LogContentBrowser: Attempting asset rename: NewDataTable -> Speed
+[2022.01.17-23.28.08:740][674]LogContentBrowser: End creating deferred item NewDataTable
+[2022.01.17-23.28.08:971][687]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/Movement/Speed.Speed
+[2022.01.17-23.28.47:525][800]LogSlate: Window 'Speed' being destroyed
+[2022.01.17-23.28.52:258][ 80]Cmd: TRANSACTION UNDO
+[2022.01.17-23.28.52:258][ 80]LogEditorTransaction: Undo Add Data Table Row
+[2022.01.17-23.28.52:339][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.17-23.28.52:872][ 97]Cmd: TRANSACTION UNDO
+[2022.01.17-23.28.52:872][ 97]LogEditorTransaction: Undo Reset Data Table Row to Default Values
+[2022.01.17-23.28.52:938][ 97]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.17-23.28.53:328][118]Cmd: TRANSACTION UNDO
+[2022.01.17-23.28.53:328][118]LogEditorTransaction: Undo Change Variable Default Value
+[2022.01.17-23.28.53:336][118]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.BP_Player_C_0.CharacterMesh0) Component already registered.
+[2022.01.17-23.28.53:407][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.17-23.28.53:413][118]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_MovementSettings_Pawns_27' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_MovementSettings_Pawns_27' is empty
+[2022.01.17-23.28.55:089][213]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.29.04:463][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.01.17-23.29.05:197][771]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.17-23.29.05:263][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.01.17-23.29.49:881][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.17-23.29.49:882][425]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_QuestSystem' took 0.026
+[2022.01.17-23.29.49:883][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_Player] ([4] browsable assets)...
+[2022.01.17-23.29.49:896][425]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2022.01.17-23.29.49:906][425]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2022.01.17-23.29.49:906][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Player]
+[2022.01.17-23.29.50:057][425]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/BP_Player_Auto3B4ECFF6A43A25E5FAF83039CCF950A81.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Autosaves/Game/Blueprints/Player/BP_Player_Auto3.uasset'
+[2022.01.17-23.29.50:060][425]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animations/Player/AB_Player] ([2] browsable assets)...
+[2022.01.17-23.29.50:074][425]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animations/Player/AB_Player.AB_Player]
+[2022.01.17-23.29.50:074][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Player/AB_Player]
+[2022.01.17-23.29.50:168][425]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/AB_Player_Auto38BF1CAFB450D7779997CBBA48105D9FD.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Autosaves/Game/Animations/Player/AB_Player_Auto3.uasset'
+[2022.01.17-23.29.50:170][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Speed] ([1] browsable assets)...
+[2022.01.17-23.29.50:170][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Speed]
+[2022.01.17-23.29.50:171][425]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_Speed_Auto30B3200EC46B96869F5967088557687AA.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Autosaves/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Speed_Auto3.uasset'
+[2022.01.17-23.29.50:171][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns] ([1] browsable assets)...
+[2022.01.17-23.29.50:171][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns]
+[2022.01.17-23.29.50:172][425]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_Pawns_Auto3A92FDF9D4113229834115DAFB00582BC.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Autosaves/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns_Auto3.uasset'
+[2022.01.17-23.29.50:173][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/DataTables/Movement/DT_MovementSpeed] ([1] browsable assets)...
+[2022.01.17-23.29.50:173][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DataTables/Movement/DT_MovementSpeed]
+[2022.01.17-23.29.50:174][425]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_MovementSpeed_Auto36DF66E86493EC4421B489F86D0FB2FDE.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Autosaves/Game/Blueprints/DataTables/Movement/DT_MovementSpeed_Auto3.uasset'
+[2022.01.17-23.29.50:174][425]LogFileHelpers: Auto-saving content packages took 0.291
+[2022.01.17-23.30.52:237][143]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_MovementSpeedCC8A4F6D4E5A1561F46CBDAE5CE44A08.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/DataTables/Movement/DT_MovementSpeed.uasset'
+[2022.01.17-23.30.52:251][143]AssetCheck: New page: Asset Save: DT_MovementSpeed
+[2022.01.17-23.30.52:251][143]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DataTables/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.33.26:996][426]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.33.30:060][610]LogContentBrowser: Verbose: The majority of assets in the view are of type: UserDefinedStruct
+[2022.01.17-23.34.28:497][115]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.S_MovementSettings_Pawns
+[2022.01.17-23.35.40:217][404]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_Pawns2E15EC15480CB0CD098B53AABFFF6E3E.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.uasset'
+[2022.01.17-23.35.40:232][404]AssetCheck: New page: Asset Save: S_MovementSettings_Pawns
+[2022.01.17-23.35.40:232][404]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.S_MovementSettings_Pawns
+[2022.01.17-23.35.41:823][497]LogSlate: Window 'S_MovementSettings_Pawns' being destroyed
+[2022.01.17-23.35.41:828][497]LogSlate: Window 'S_MovementSettings_Pawns' being destroyed
+[2022.01.17-23.35.47:844][856]LogContentBrowser: Attempting asset rename: S_MovementSettings_Pawns -> S_MovementSettings_Modes
+[2022.01.17-23.35.47:863][856]LogMetaData: Removing '/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Modes.S_MovementSettings_Modes' ref from Metadata '/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Pawns.PackageMetaData'
+[2022.01.17-23.35.47:896][856]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_Modes632465D24C9B6F4A573886A89BFC65EB.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings_Modes.uasset'
+[2022.01.17-23.35.47:996][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.01.17-23.35.48:040][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.01.17-23.35.48:066][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.17-23.35.48:082][856]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_MovementSpeed43BB76444516A6CFC20B5A8FFDFD0A8B.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/DataTables/Movement/DT_MovementSpeed.uasset'
+[2022.01.17-23.35.48:169][856]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.17-23.35.48:169][856]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DataTables/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.35.48:169][856]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Modes.S_MovementSettings_Modes
+[2022.01.17-23.36.27:411][196]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.36.28:318][250]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.36.32:756][516]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.36.33:556][564]LogContentBrowser: Verbose: The majority of assets in the view are of type: UserDefinedStruct
+[2022.01.17-23.36.34:796][637]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Speed.S_MovementSettings_Speed
+[2022.01.17-23.36.37:615][800]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_MovementSettings_Modes_35' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_MovementSettings_Modes_35' is empty
+[2022.01.17-23.36.38:800][864]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_SpeedB9647C7E475314FDDD5C1E9787AB7FEC.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/Structures/MovementSettings/S_MovementSettings_Speed.uasset'
+[2022.01.17-23.36.38:815][864]AssetCheck: New page: Asset Save: S_MovementSettings_Speed
+[2022.01.17-23.36.38:815][864]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Speed.S_MovementSettings_Speed
+[2022.01.17-23.36.39:539][906]LogSlate: Window 'S_MovementSettings_Speed' being destroyed
+[2022.01.17-23.36.39:544][906]LogSlate: Window 'S_MovementSettings_Speed' being destroyed
+[2022.01.17-23.37.28:029][792]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_MovementSpeed8CA2E8E34FDF2DD96078629B9591E51F.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/DataTables/Movement/DT_MovementSpeed.uasset'
+[2022.01.17-23.37.28:040][792]AssetCheck: New page: Asset Save: DT_MovementSpeed
+[2022.01.17-23.37.28:041][792]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DataTables/Movement/DT_MovementSpeed.DT_MovementSpeed
+[2022.01.17-23.37.40:453][531]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.17-23.37.43:303][702]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2022.01.17-23.40.17:491][452]LogEditorTransaction: Undo Split Struct Pin
+[2022.01.17-23.40.17:578][452]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.17-23.43.02:190][112]BlueprintLog: New page: Compile BP_Player
+[2022.01.17-23.43.02:204][112]LogBlueprint: Error: [AssetLog] C:\Users\truon\Documents\UNI\Computerspiele\Git\marama\Content\Blueprints\Player\BP_Player.uasset: [Compiler] Could not find a function named "StopSprint" in 'BP_Player_C'.
+Make sure 'BP_Player_C' has been compiled for  Stop Sprint
+[2022.01.17-23.43.02:204][112]LogBlueprint: Error: [AssetLog] C:\Users\truon\Documents\UNI\Computerspiele\Git\marama\Content\Blueprints\Player\BP_Player.uasset: [Compiler] Could not find a function named "Sprint" in 'BP_Player_C'.
+Make sure 'BP_Player_C' has been compiled for  Sprint
+[2022.01.17-23.43.02:279][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.01.17-23.45.32:518][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.01.17-23.45.32:519][661]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_QuestSystem' took 0.042
+[2022.01.17-23.45.32:520][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_Player] ([4] browsable assets)...
+[2022.01.17-23.45.32:533][661]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2022.01.17-23.45.32:545][661]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2022.01.17-23.45.32:545][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Player]
+[2022.01.17-23.45.32:707][661]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/BP_Player_Auto400795F934A3480545F36BFBBD385330C.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Autosaves/Game/Blueprints/Player/BP_Player_Auto4.uasset'
+[2022.01.17-23.45.32:709][661]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animations/Player/AB_Player] ([2] browsable assets)...
+[2022.01.17-23.45.32:749][661]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animations/Player/AB_Player.AB_Player]
+[2022.01.17-23.45.32:749][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Player/AB_Player]
+[2022.01.17-23.45.32:849][661]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/AB_Player_Auto47A19A735474916B5791758982212EC29.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Autosaves/Game/Animations/Player/AB_Player_Auto4.uasset'
+[2022.01.17-23.45.32:850][661]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Modes] ([1] browsable assets)...
+[2022.01.17-23.45.32:850][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Modes]
+[2022.01.17-23.45.32:851][661]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/S_MovementSettings_Modes_Auto4694D2E8C493DC5AA4D0886BD41CCB72F.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Autosaves/Game/Blueprints/Structures/MovementSettings/S_MovementSettings_Modes_Auto4.uasset'
+[2022.01.17-23.45.32:854][661]LogFileHelpers: Auto-saving content packages took 0.335
+[2022.01.17-23.53.02:928][ 11]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2022.01.17-23.53.08:191][314]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/Tags/DT_Tags_Combat.DT_Tags_Combat
+[2022.01.17-23.53.27:956][489]Cmd: TRANSACTION UNDO
+[2022.01.17-23.53.27:957][489]LogEditorTransaction: Undo Edit Tag
+[2022.01.17-23.53.28:047][489]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.17-23.53.51:307][859]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/DT_Tags_Combat062DEB7E406D4EED7925E48C04BD5BD2.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Content/Blueprints/DataTables/Tags/DT_Tags_Combat.uasset'
+[2022.01.17-23.53.51:320][859]AssetCheck: New page: Asset Save: DT_Tags_Combat
+[2022.01.17-23.53.51:320][859]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DataTables/Tags/DT_Tags_Combat.DT_Tags_Combat
+[2022.01.17-23.53.56:280][147]LogSlate: Window 'DT_Tags_Combat' being destroyed
+[2022.01.17-23.53.56:285][147]LogSlate: Window 'DT_Tags_Combat' being destroyed
+[2022.01.17-23.54.10:266][976]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2022.01.17-23.54.14:601][233]LogUObjectGlobals: Warning: Failed to find object 'DataTable None.'
+[2022.01.17-23.57.03:081][244]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.02.20:849][ 74]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.05.24:900][925]LogEditorTransaction: Undo Move Nodes
+[2022.01.18-00.05.24:989][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.18-00.10.28:530][408]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.10.46:548][599]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.10.49:668][780]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2022.01.18-00.10.49:670][780]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_QuestSystem' took 0.074
+[2022.01.18-00.10.49:671][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_Player] ([4] browsable assets)...
+[2022.01.18-00.10.49:700][780]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2022.01.18-00.10.49:711][780]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2022.01.18-00.10.49:711][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Player]
+[2022.01.18-00.10.49:866][780]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/BP_Player_Auto5F48786724E395B97E59D5ABF0E3CD6CD.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Autosaves/Game/Blueprints/Player/BP_Player_Auto5.uasset'
+[2022.01.18-00.10.49:868][780]LogFileHelpers: Auto-saving content packages took 0.198
+[2022.01.18-00.10.52:375][810]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.10.55:997][912]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.18.39:835][321]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.19.04:391][476]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.19.40:006][620]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.19.46:220][890]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.19.53:583][226]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.20.20:331][524]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.20.23:068][588]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.20.48:208][561]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.21.11:681][ 45]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.21.14:756][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.01.18-00.21.14:760][223]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_QuestSystem' took 0.042
+[2022.01.18-00.21.14:761][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_Player] ([4] browsable assets)...
+[2022.01.18-00.21.14:777][223]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2022.01.18-00.21.14:789][223]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2022.01.18-00.21.14:789][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Player]
+[2022.01.18-00.21.14:941][223]LogSavePackage: Moving '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/BP_Player_Auto6C21CD6D3424CB5C6EAE6A791E7D89C0C.tmp' to '../../../../../../Users/truon/Documents/UNI/Computerspiele/Git/marama/Saved/Autosaves/Game/Blueprints/Player/BP_Player_Auto6.uasset'
+[2022.01.18-00.21.14:942][223]LogFileHelpers: Auto-saving content packages took 0.183
+[2022.01.18-00.21.17:791][314]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.21.21:828][473]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.21.51:709][335]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.22.59:113][130]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.26.09:729][414]LogEditorTransaction: Undo Add In Parameter
+[2022.01.18-00.26.09:736][414]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.BP_Player_C_0.CharacterMesh0) Component already registered.
+[2022.01.18-00.26.09:739][414]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_12:PersistentLevel.BP_Player_C_0.CharacterMesh0) Component already registered.
+[2022.01.18-00.26.09:833][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.18-00.29.56:008][919]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.30.00:207][ 78]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.30.33:544][240]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.18-00.34.01:758][227]LogRHI: Error: Present Fail Count 1
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SyncInterval 0
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.BufferDesc.Width 512
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.BufferDesc.Height 256
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000806B6
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.18-00.34.01:758][227]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.18-00.34.01:802][228]LogRHI: Error: Present Fail Count 1
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SyncInterval 0
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B00C4
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.18-00.34.01:802][228]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.18-00.34.09:655][252]LogRHI: Error: Present Fail Count 2
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SyncInterval 0
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B00C4
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.18-00.34.09:655][252]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.18-00.34.09:705][255]LogRHI: Error: Present Fail Count 3
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SyncInterval 0
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B00C4
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.18-00.34.09:705][255]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.18-00.34.09:753][258]LogRHI: Error: Present Fail Count 4
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SyncInterval 0
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.18-00.34.09:753][258]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B00C4
+[2022.01.18-00.34.09:754][258]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.18-00.34.09:754][258]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.18-00.34.09:754][258]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.18-00.34.09:804][261]LogRHI: Error: Present Fail Count 5
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SyncInterval 0
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B00C4
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.18-00.34.09:804][261]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.18-00.34.09:852][264]LogRHI: Error: Present Fail Count 6
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SyncInterval 0
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B00C4
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.18-00.34.09:852][264]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.18-00.34.09:905][267]LogRHI: Error: Present Fail Count 7
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SyncInterval 0
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B00C4
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.18-00.34.09:905][267]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.18-00.34.09:955][270]LogRHI: Error: Present Fail Count 8
+[2022.01.18-00.34.09:955][270]LogRHI: Error: SyncInterval 0
+[2022.01.18-00.34.09:955][270]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2022.01.18-00.34.09:955][270]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.18-00.34.09:955][270]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.18-00.34.09:955][270]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.18-00.34.09:955][270]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.18-00.34.09:956][270]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.18-00.34.09:956][270]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.18-00.34.09:956][270]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.18-00.34.09:956][270]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.18-00.34.09:956][270]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.18-00.34.09:956][270]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.18-00.34.09:956][270]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B00C4
+[2022.01.18-00.34.09:956][270]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.18-00.34.09:956][270]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.18-00.34.09:956][270]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.18-00.34.10:003][273]LogRHI: Error: Present Fail Count 9
+[2022.01.18-00.34.10:003][273]LogRHI: Error: SyncInterval 0
+[2022.01.18-00.34.10:003][273]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2022.01.18-00.34.10:003][273]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.18-00.34.10:003][273]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.18-00.34.10:003][273]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.18-00.34.10:003][273]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.18-00.34.10:003][273]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.18-00.34.10:003][273]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.18-00.34.10:003][273]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.18-00.34.10:004][273]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.18-00.34.10:004][273]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.18-00.34.10:004][273]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.18-00.34.10:004][273]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B00C4
+[2022.01.18-00.34.10:004][273]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.18-00.34.10:004][273]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.18-00.34.10:004][273]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.18-00.34.10:054][276]LogRHI: Error: Present Fail Count 10
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SyncInterval 0
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B00C4
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.18-00.34.10:055][276]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.18-00.34.10:092][279]LogRHI: Error: Present Fail Count 11
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SyncInterval 0
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B00C4
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.01.18-00.34.10:092][279]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.01.18-00.34.10:092][279]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:443 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2022.01.18-00.34.10:092][279]LogD3D11RHI: [Aftermath] GDynamicRHI=000001DB4E664440, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2022.01.18-00.34.10:092][279]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.01.18-00.34.12:162][280]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.01.18-00.34.12:162][280]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.01.18-00.34.12:162][280]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.01.18-00.34.12:162][280]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.01.18-00.34.12:162][280]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.01.18-00.34.12:162][280]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2022.01.18-00.34.12:170][280]Log file closed, 01/18/22 01:34:12
