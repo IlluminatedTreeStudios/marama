@@ -1728,3 +1728,1652 @@ Script Stack (0 frames):
 [2022.01.23-20.05.24:986][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01]
 [2022.01.23-20.05.24:996][749]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/BP_GlowingTree_01_Auto24E1138794A917FD2D38E8A85ECF6A54B.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/Autosaves/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01_Auto2.uasset'
 [2022.01.23-20.05.24:997][749]LogFileHelpers: Auto-saving content packages took 0.111
+[2022.01.23-20.06.08:902][501]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.06.08:982][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.01.23-20.06.17:543][489]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.06.17:597][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.01.23-20.09.54:696][822]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.09.54:780][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.01.23-20.16.54:620][546]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.16.54:676][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.01.23-20.17.13:386][738]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.17.13:474][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.01.23-20.17.14:428][840]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.17.14:485][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.01.23-20.18.22:400][919]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.18.22:484][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.01.23-20.18.26:490][306]LogEditorViewport: Clicking on Actor (LMB): BP_GlowingTree_Master_C (BP_GlowingTree_Master)
+[2022.01.23-20.18.26:893][352]LogEditorViewport: Clicking on Actor (LMB): BP_GlowingTree_Master_C (BP_GlowingTree_Master)
+[2022.01.23-20.18.27:470][420]Cmd: DELETE
+[2022.01.23-20.18.27:470][420]Cmd: ACTOR DELETE
+[2022.01.23-20.18.27:480][420]LogEditorActor: Deleted Actor: BP_GlowingTree_Master_C
+[2022.01.23-20.18.27:511][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.01.23-20.18.27:512][420]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.01.23-20.18.30:507][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.01.23-20.18.32:378][956]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.18.32:385][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.18.32:385][956]PIE: New page: PIE session: LvL_Tree (23.01.2022, 22:18:32)
+[2022.01.23-20.18.32:410][956]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.18.32:413][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001961s)
+[2022.01.23-20.18.32:413][956]LogAIModule: Creating AISystem for world LvL_Tree
+[2022.01.23-20.18.32:413][956]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2022.01.23-20.18.32:413][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LvL_Tree.LvL_Tree to /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree (0.002987s)
+[2022.01.23-20.18.32:448][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.01.23-20.18.32:449][956]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.01.23-20.18.32:449][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-20.18.32:449][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-20.18.32:449][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-20.18.32:449][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-20.18.32:449][956]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-20.18.32:449][956]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-20.18.32:449][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-20.18.32:449][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-20.18.32:450][956]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-20.18.32:450][956]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-20.18.32:450][956]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-20.18.32:450][956]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-20.18.32:455][956]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-20.18.32:455][956]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-20.18.32:455][956]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.23-20.18.32:455][956]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.23-20.18.32:455][956]LogAudioMixer: Display: 4: BackLeft
+[2022.01.23-20.18.32:455][956]LogAudioMixer: Display: 5: BackRight
+[2022.01.23-20.18.32:455][956]LogAudioMixer: Display: 6: SideLeft
+[2022.01.23-20.18.32:455][956]LogAudioMixer: Display: 7: SideRight
+[2022.01.23-20.18.32:465][956]LogAudioMixer: Display: Using Audio Device Lautsprecher (Logitech G933 Gaming Headset)
+[2022.01.23-20.18.32:465][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-20.18.32:465][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-20.18.32:465][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-20.18.32:465][956]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-20.18.32:465][956]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-20.18.32:465][956]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.23-20.18.32:466][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-20.18.32:466][956]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-20.18.32:466][956]LogInit: FAudioDevice initialized.
+[2022.01.23-20.18.32:466][956]LogAudio: Display: Audio Device (ID: 10) registered with world 'LvL_Tree'.
+[2022.01.23-20.18.32:477][956]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.23-20.18.32:477][956]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree up for play (max tick rate 0) at 2022.01.23-21.18.32
+[2022.01.23-20.18.32:477][956]LogWorld: Bringing up level for play took: 0.000473
+[2022.01.23-20.18.32:478][956]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.01.23-20.18.32:483][956]PIE: Server logged in
+[2022.01.23-20.18.32:483][956]PIE: Play in editor total start time 0,1 seconds.
+[2022.01.23-20.18.34:379][178]LogBlueprintUserMessages: [BP_GlowingTree_01_2] Entered TREE area
+[2022.01.23-20.18.34:962][248]LogBlueprintUserMessages: [BP_Player_C_0] BP_GlowingTree_01
+[2022.01.23-20.18.40:513][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.18.40:513][910]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.18.40:513][910]LogWorld: UWorld::CleanupWorld for LvL_Tree, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.18.40:513][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.18.40:521][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-20.18.40:539][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.18.40:567][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.23-20.18.40:568][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.18.40:568][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.18.40:577][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.18.40:580][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.01.23-20.18.40:607][911]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.01.23-20.18.41:602][ 28]LogEditorViewport: Clicking on Actor (LMB): BP_GlowingTree_01_C (BP_GlowingTree_01)
+[2022.01.23-20.18.43:065][201]Cmd: DELETE
+[2022.01.23-20.18.43:065][201]Cmd: ACTOR DELETE
+[2022.01.23-20.18.43:067][201]LogEditorActor: Deleted Actor: BP_GlowingTree_01_C
+[2022.01.23-20.18.43:097][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.01.23-20.18.43:099][201]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.01.23-20.18.59:069][506]LogSlate: Window 'Delete Variable' being destroyed
+[2022.01.23-20.20.00:156][494]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.20.00:212][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.01.23-20.20.10:081][598]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.20.10:096][598]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Mesh" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Mesh
+[2022.01.23-20.20.10:099][598]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.20.10:158][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.01.23-20.21.19:216][280]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.21.19:230][280]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Dynamic Material
+[2022.01.23-20.21.19:230][280]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Dynamic Material
+[2022.01.23-20.21.19:230][280]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Dynamic Material
+[2022.01.23-20.21.19:231][280]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Dynamic Material
+[2022.01.23-20.21.19:231][280]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Mesh" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Mesh
+[2022.01.23-20.21.19:231][280]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Set Dynamic Material
+[2022.01.23-20.21.19:234][280]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.19:234][280]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.19:234][280]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.19:234][280]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.19:235][280]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.19:235][280]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.19:294][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.01.23-20.21.30:607][487]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.21.30:618][487]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Dynamic Material
+[2022.01.23-20.21.30:618][487]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Dynamic Material
+[2022.01.23-20.21.30:618][487]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Dynamic Material
+[2022.01.23-20.21.30:618][487]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Dynamic Material
+[2022.01.23-20.21.30:620][487]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Mesh" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Mesh
+[2022.01.23-20.21.30:620][487]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Set Dynamic Material
+[2022.01.23-20.21.30:622][487]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.30:622][487]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.30:622][487]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.30:623][487]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.30:623][487]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.30:623][487]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.30:682][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.01.23-20.21.33:451][772]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.21.33:453][772]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Dynamic Material
+[2022.01.23-20.21.33:453][772]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Dynamic Material
+[2022.01.23-20.21.33:453][772]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Dynamic Material
+[2022.01.23-20.21.33:454][772]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Dynamic Material
+[2022.01.23-20.21.33:454][772]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Mesh" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Mesh
+[2022.01.23-20.21.33:455][772]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Set Dynamic Material
+[2022.01.23-20.21.33:455][772]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.33:455][772]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.33:455][772]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.33:456][772]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.33:456][772]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.33:456][772]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.21.33:507][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.01.23-20.22.07:992][501]LogSlate: Window 'Delete Variable' being destroyed
+[2022.01.23-20.22.55:807][100]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.22.55:810][100]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Mesh" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Mesh
+[2022.01.23-20.22.55:810][100]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Set Dynamic Material
+[2022.01.23-20.22.55:810][100]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.22.55:810][100]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.22.55:862][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.01.23-20.23.56:016][835]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.23.56:030][835]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Mesh" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Mesh
+[2022.01.23-20.23.56:030][835]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Set Dynamic Material
+[2022.01.23-20.23.56:033][835]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.23.56:033][835]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.23.56:091][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.01.23-20.25.20:081][454]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.25.20:093][454]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Mesh" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Mesh
+[2022.01.23-20.25.20:093][454]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Set Dynamic Material
+[2022.01.23-20.25.20:096][454]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.25.20:096][454]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.25.20:154][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.01.23-20.25.22:202][664]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.25.22:204][664]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Mesh" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Mesh
+[2022.01.23-20.25.22:204][664]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Set Dynamic Material
+[2022.01.23-20.25.22:205][664]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.25.22:205][664]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.25.22:257][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.01.23-20.26.08:629][244]LogSlate: Window 'Delete Component' being destroyed
+[2022.01.23-20.26.08:634][244]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2022.01.23-20.26.08:634][244]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] The component that  On Component Begin Overlap (ColissionSphere)  was bound to has been deleted! This node is no longer valid
+[2022.01.23-20.26.08:634][244]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2022.01.23-20.26.08:634][244]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] The component that  On Component End Overlap (ColissionSphere)  was bound to has been deleted! This node is no longer valid
+[2022.01.23-20.26.08:635][244]BlueprintLog: New page: Removed Owner of Component Bound Event
+[2022.01.23-20.26.08:635][244]BlueprintLog: Error: The component that  On Component Begin Overlap (ColissionSphere)  was bound to has been deleted! This node is no longer valid
+[2022.01.23-20.26.08:635][244]BlueprintLog: Error: The component that  On Component End Overlap (ColissionSphere)  was bound to has been deleted! This node is no longer valid
+[2022.01.23-20.26.55:454][398]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.26.55:469][398]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Mesh" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Mesh
+[2022.01.23-20.26.55:469][398]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Set Dynamic Material
+[2022.01.23-20.26.55:472][398]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.26.55:472][398]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.26.55:531][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.01.23-20.27.58:314][381]LogContentBrowser: Verbose: The majority of assets in the view are of type: Material
+[2022.01.23-20.27.59:115][472]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.01.23-20.28.04:894][155]LogContentBrowser: Verbose: The majority of assets in the view are of type: PhysicsAsset
+[2022.01.23-20.28.06:436][339]LogContentBrowser: Verbose: The majority of assets in the view are of type: Material
+[2022.01.23-20.28.18:520][642]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.28.18:525][642]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Set Dynamic Material
+[2022.01.23-20.28.18:525][642]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.28.18:525][642]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.28.18:605][642]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.01.23-20.28.33:889][321]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.28.33:892][321]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Set Dynamic Material
+[2022.01.23-20.28.33:893][321]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.28.33:956][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.01.23-20.28.49:777][154]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.28.49:840][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.01.23-20.28.51:580][355]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.28.51:587][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.28.51:587][355]PIE: New page: PIE session: LvL_Tree (23.01.2022, 22:28:51)
+[2022.01.23-20.28.51:587][355]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.28.51:589][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001615s)
+[2022.01.23-20.28.51:590][355]LogAIModule: Creating AISystem for world LvL_Tree
+[2022.01.23-20.28.51:590][355]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2022.01.23-20.28.51:590][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LvL_Tree.LvL_Tree to /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree (0.002894s)
+[2022.01.23-20.28.51:626][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.01.23-20.28.51:627][355]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.01.23-20.28.51:627][355]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-20.28.51:627][355]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-20.28.51:627][355]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-20.28.51:627][355]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-20.28.51:627][355]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-20.28.51:627][355]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-20.28.51:627][355]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-20.28.51:627][355]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-20.28.51:628][355]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-20.28.51:628][355]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-20.28.51:628][355]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-20.28.51:628][355]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-20.28.51:634][355]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-20.28.51:634][355]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-20.28.51:634][355]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.23-20.28.51:634][355]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.23-20.28.51:634][355]LogAudioMixer: Display: 4: BackLeft
+[2022.01.23-20.28.51:634][355]LogAudioMixer: Display: 5: BackRight
+[2022.01.23-20.28.51:634][355]LogAudioMixer: Display: 6: SideLeft
+[2022.01.23-20.28.51:634][355]LogAudioMixer: Display: 7: SideRight
+[2022.01.23-20.28.51:643][355]LogAudioMixer: Display: Using Audio Device Lautsprecher (Logitech G933 Gaming Headset)
+[2022.01.23-20.28.51:644][355]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-20.28.51:644][355]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-20.28.51:644][355]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-20.28.51:644][355]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-20.28.51:644][355]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-20.28.51:644][355]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.23-20.28.51:645][355]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-20.28.51:645][355]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-20.28.51:645][355]LogInit: FAudioDevice initialized.
+[2022.01.23-20.28.51:645][355]LogAudio: Display: Audio Device (ID: 11) registered with world 'LvL_Tree'.
+[2022.01.23-20.28.51:697][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.28.51:697][355]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.23-20.28.51:698][355]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree up for play (max tick rate 0) at 2022.01.23-21.28.51
+[2022.01.23-20.28.51:698][355]LogWorld: Bringing up level for play took: 0.000412
+[2022.01.23-20.28.51:698][355]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.01.23-20.28.51:704][355]PIE: Server logged in
+[2022.01.23-20.28.51:705][355]PIE: Play in editor total start time 0,119 seconds.
+[2022.01.23-20.28.54:422][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.28.54:422][660]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.28.54:423][660]LogSlate: Window 'marama Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.23-20.28.54:428][660]LogWorld: UWorld::CleanupWorld for LvL_Tree, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.28.54:428][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.28.54:437][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-20.28.54:443][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.28.54:477][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.28.54:477][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.28.54:496][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.01.23-20.28.54:515][661]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.01.23-20.29.08:855][337]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2022.01.23-20.29.14:009][909]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.29.14:018][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.29.14:018][909]PIE: New page: PIE session: LvL_Tree (23.01.2022, 22:29:14)
+[2022.01.23-20.29.14:059][909]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.29.14:061][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001914s)
+[2022.01.23-20.29.14:062][909]LogAIModule: Creating AISystem for world LvL_Tree
+[2022.01.23-20.29.14:062][909]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2022.01.23-20.29.14:062][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LvL_Tree.LvL_Tree to /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree (0.003036s)
+[2022.01.23-20.29.14:103][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.01.23-20.29.14:104][909]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.01.23-20.29.14:104][909]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-20.29.14:104][909]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-20.29.14:104][909]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-20.29.14:104][909]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-20.29.14:104][909]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-20.29.14:104][909]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-20.29.14:104][909]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-20.29.14:104][909]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-20.29.14:105][909]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-20.29.14:105][909]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-20.29.14:105][909]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-20.29.14:105][909]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-20.29.14:110][909]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-20.29.14:110][909]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-20.29.14:110][909]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.23-20.29.14:110][909]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.23-20.29.14:110][909]LogAudioMixer: Display: 4: BackLeft
+[2022.01.23-20.29.14:110][909]LogAudioMixer: Display: 5: BackRight
+[2022.01.23-20.29.14:110][909]LogAudioMixer: Display: 6: SideLeft
+[2022.01.23-20.29.14:110][909]LogAudioMixer: Display: 7: SideRight
+[2022.01.23-20.29.14:121][909]LogAudioMixer: Display: Using Audio Device Lautsprecher (Logitech G933 Gaming Headset)
+[2022.01.23-20.29.14:122][909]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-20.29.14:122][909]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-20.29.14:122][909]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-20.29.14:122][909]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-20.29.14:122][909]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-20.29.14:122][909]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.23-20.29.14:123][909]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-20.29.14:123][909]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-20.29.14:123][909]LogInit: FAudioDevice initialized.
+[2022.01.23-20.29.14:123][909]LogAudio: Display: Audio Device (ID: 12) registered with world 'LvL_Tree'.
+[2022.01.23-20.29.14:131][909]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.23-20.29.14:132][909]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree up for play (max tick rate 0) at 2022.01.23-21.29.14
+[2022.01.23-20.29.14:132][909]LogWorld: Bringing up level for play took: 0.000469
+[2022.01.23-20.29.14:132][909]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.01.23-20.29.14:135][909]LogOutputDevice: Warning: 
+
+Script Stack (3 frames):
+BP_GlowingTree_Master_C.ReceiveBeginPlay
+BP_GlowingTree_01_C.ExecuteUbergraph_BP_GlowingTree_01
+BP_GlowingTree_01_C.ReceiveBeginPlay
+
+[2022.01.23-20.29.15:378][909]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.243 s
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: === Handled ensure: ===
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: 
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 904]
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: Type mismatch: Expected BP_GlowingTree_Master_C, Found REINST_BP_GlowingTree_Master_C_481
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: Stack: 
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: [Callstack] 0x00007ffa742eb517 UE4Editor-Engine.dll!UnknownFunction []
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: [Callstack] 0x00007ffa72baee54 UE4Editor-Engine.dll!UnknownFunction []
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7106d44e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: [Callstack] 0x00007ffa714bfe5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7a745b01 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7a751630 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7a724c4d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7a6f32da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7a72483c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.23-20.29.15:378][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7a724c4d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7a6f32da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7a72483c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7a724c4d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7a724044 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7a441894 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa7a723b63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa728a93ea UE4Editor-Engine.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa728773f5 UE4Editor-Engine.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa72880bdf UE4Editor-Engine.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa73c89e25 UE4Editor-Engine.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa72fcc961 UE4Editor-Engine.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa73c2dece UE4Editor-Engine.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa72feea49 UE4Editor-Engine.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa711807b5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa711a3d6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa711814ed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa711c12b2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa711c4871 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa711c4138 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa70c1e98c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffa715206e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ff7371287a0 UE4Editor.exe!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ff737140fbc UE4Editor.exe!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ff7371410aa UE4Editor.exe!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ff7371440cd UE4Editor.exe!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ff737155984 UE4Editor.exe!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ff73715853a UE4Editor.exe!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffad8e37034 KERNEL32.DLL!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: [Callstack] 0x00007ffad9002651 ntdll.dll!UnknownFunction []
+[2022.01.23-20.29.15:379][909]LogOutputDevice: Error: 
+[2022.01.23-20.29.15:381][909]LogStats:                SubmitErrorReport -  0.000 s
+[2022.01.23-20.29.16:685][909]LogStats:                    SendNewReport -  1.305 s
+[2022.01.23-20.29.16:685][909]LogStats:             FDebug::EnsureFailed -  2.550 s
+[2022.01.23-20.29.16:687][909]PIE: Server logged in
+[2022.01.23-20.29.16:688][909]PIE: Play in editor total start time 2,673 seconds.
+[2022.01.23-20.29.17:441][992]LogBlueprintUserMessages: [BP_GlowingTree_01_5] Left TREE area
+[2022.01.23-20.29.17:834][ 39]LogBlueprintUserMessages: [BP_GlowingTree_01_5] Entered TREE area
+[2022.01.23-20.29.18:392][106]LogBlueprintUserMessages: [BP_Player_C_0] BP_GlowingTree_01
+[2022.01.23-20.29.21:842][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	BP_GlowingTree_01_C /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree:PersistentLevel.BP_GlowingTree_01_5
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_Master.BP_GlowingTree_Master_C:SetWidgetProgress:0081
+[2022.01.23-20.29.21:842][345]PIE: Error: Infinite loop detected. Blueprint:  BP_GlowingTree_Master Function:  Cast To WBP_HoldInteraction Call Stack:  Show
+[2022.01.23-20.29.23:300][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.23:300][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.24:760][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.24:760][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.26:216][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.26:216][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.27:673][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.27:673][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.29:130][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.29:131][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.30:587][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.30:587][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.32:046][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.32:046][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.33:523][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.33:523][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.35:010][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.35:010][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.36:502][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.36:502][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.37:966][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.37:966][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.39:419][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.39:419][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.40:873][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.40:873][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.42:328][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.42:328][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.43:825][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.43:825][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.45:351][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.45:351][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.46:830][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.46:830][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.48:295][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.48:295][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.49:758][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.49:758][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.51:222][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.51:222][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.52:683][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.52:683][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.54:147][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.54:147][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.55:611][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.55:611][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.57:073][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.57:073][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.58:532][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.58:532][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.29.59:994][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.29.59:994][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.01:461][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.01:461][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.02:922][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.02:922][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.04:387][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.04:387][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.05:847][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.05:847][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.07:310][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.07:310][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.08:772][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.08:772][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.10:238][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.10:238][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.11:701][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.11:701][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.13:165][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.13:165][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.14:629][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.14:630][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.16:094][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.16:095][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.17:559][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.17:559][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.19:024][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.19:025][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.20:487][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.20:487][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.21:948][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.21:948][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.23:413][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.23:413][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.24:877][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.24:877][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.26:339][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.26:339][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.27:804][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.27:804][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.29:268][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.29:269][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.30:732][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.30:732][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.32:193][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.32:193][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.33:657][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.33:657][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.35:119][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.35:119][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.36:582][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.36:583][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.38:047][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.38:048][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.39:511][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.39:511][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.40:975][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.40:975][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.42:440][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.42:440][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.43:903][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.43:903][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.45:368][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.45:368][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.46:831][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.46:831][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.48:298][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.48:298][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.49:761][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.49:761][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.51:224][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.51:224][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.52:686][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.52:686][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.54:148][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.54:148][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.55:613][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.55:613][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.57:077][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.57:077][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.30.58:542][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.30.58:542][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.00:005][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.00:005][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.01:471][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.01:471][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.02:934][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.02:934][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.04:396][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.04:396][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.05:859][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.05:860][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.07:322][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.07:322][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.08:785][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.08:785][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.10:249][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.10:249][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.11:712][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.11:712][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.13:173][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.13:173][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.14:635][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.14:635][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.16:100][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.16:100][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.17:562][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.17:562][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.19:026][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.19:026][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.20:487][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.20:488][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.21:951][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.21:951][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.23:414][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.23:414][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.24:878][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.24:878][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.26:339][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.26:339][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.27:802][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.27:802][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.29:267][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.29:267][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.30:735][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.30:735][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.32:199][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.32:199][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.33:662][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.33:662][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.35:124][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.35:124][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.36:586][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.36:587][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.38:051][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.38:051][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.39:516][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.39:516][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.40:978][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.40:978][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.42:441][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.42:441][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.43:905][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.43:905][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.45:368][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.45:368][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.46:831][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.46:831][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.48:294][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.48:295][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.49:759][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.49:759][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.51:226][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.51:226][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.52:688][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.52:688][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.54:150][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.54:150][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.55:613][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.55:613][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.57:077][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.57:077][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.31.58:539][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.31.58:539][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.32.00:003][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.32.00:004][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.32.01:469][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.32.01:469][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.32.02:934][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.32.02:934][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.32.04:397][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.32.04:397][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.32.05:862][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.32.05:862][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.32.07:322][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0050
+[2022.01.23-20.32.07:322][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Branch Call Stack:  Show
+[2022.01.23-20.32.07:322][345]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	WBP_HoldInteract_CircleProgressBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_10.WBP_HoldInteraction_C_0.WidgetTree.WBP_HoldInteract_CircleProgressBar
+	Function /Game/Blueprints/UI/NPC/WBP_HoldInteract_CircleProgressBar.WBP_HoldInteract_CircleProgressBar_C:SetPercentage:0000
+[2022.01.23-20.32.07:322][345]PIE: Error: Infinite loop detected. Blueprint:  WBP_HoldInteract_CircleProgressBar Function:  Set Percentage Call Stack:  Show
+[2022.01.23-20.32.08:281][345]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	BP_GlowingTree_01_C /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree:PersistentLevel.BP_GlowingTree_01_5
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_Master.BP_GlowingTree_Master_C:ExecuteUbergraph_BP_GlowingTree_Master:0711
+[2022.01.23-20.32.08:281][345]PIE: Error: Infinite loop detected. Blueprint:  BP_GlowingTree_Master Function:  Branch Call Stack:  Show
+[2022.01.23-20.32.08:315][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.32.08:315][345]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.32.08:315][345]LogWorld: UWorld::CleanupWorld for LvL_Tree, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.32.08:316][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.32.08:341][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-20.32.08:351][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.32.08:394][345]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.23-20.32.08:395][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.32.08:396][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.32.08:398][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.32.08:408][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.01.23-20.32.08:547][346]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.01.23-20.32.11:599][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.01.23-20.32.11:608][355]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/LvL_Tree_Auto3E683F4B64C73CBAB3F3471BBD5A9AFF7.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/Autosaves/Game/Levels/LvL_Tree_Auto3.umap'
+[2022.01.23-20.32.11:609][355]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LvL_Tree' took 0.044
+[2022.01.23-20.32.11:609][355]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2022.01.23-20.32.11:609][355]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_Master] ([4] browsable assets)...
+[2022.01.23-20.32.11:609][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_Master]
+[2022.01.23-20.32.11:657][355]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/BP_GlowingTree_Master_Auto3EBF9FAD74DB98168D1A959A87CD0D0D1.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/Autosaves/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_Master_Auto3.uasset'
+[2022.01.23-20.32.11:659][355]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01] ([4] browsable assets)...
+[2022.01.23-20.32.11:673][355]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01]
+[2022.01.23-20.32.11:680][355]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01]
+[2022.01.23-20.32.11:680][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01]
+[2022.01.23-20.32.11:696][355]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/BP_GlowingTree_01_Auto35D7C6DE14D01FA0042A413BA429E79AA.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/Autosaves/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01_Auto3.uasset'
+[2022.01.23-20.32.11:697][355]LogFileHelpers: Auto-saving content packages took 0.088
+[2022.01.23-20.34.58:913][546]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2022.01.23-20.35.49:770][265]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/NPC/WBP_HoldInteraction.WBP_HoldInteraction
+[2022.01.23-20.35.57:154][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.35.57:161][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.35.57:161][ 52]PIE: New page: PIE session: LvL_Tree (23.01.2022, 22:35:57)
+[2022.01.23-20.35.57:161][ 52]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.35.57:164][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002232s)
+[2022.01.23-20.35.57:168][ 52]LogAIModule: Creating AISystem for world LvL_Tree
+[2022.01.23-20.35.57:168][ 52]LogPlayLevel: PIE: World Init took: (0.004216s)
+[2022.01.23-20.35.57:168][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LvL_Tree.LvL_Tree to /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree (0.006557s)
+[2022.01.23-20.35.57:234][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2022.01.23-20.35.57:236][ 52]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.01.23-20.35.57:236][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-20.35.57:237][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-20.35.57:237][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-20.35.57:237][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-20.35.57:237][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-20.35.57:237][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-20.35.57:237][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-20.35.57:237][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-20.35.57:237][ 52]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-20.35.57:237][ 52]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-20.35.57:237][ 52]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-20.35.57:237][ 52]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-20.35.57:243][ 52]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-20.35.57:243][ 52]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-20.35.57:243][ 52]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.23-20.35.57:243][ 52]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.23-20.35.57:243][ 52]LogAudioMixer: Display: 4: BackLeft
+[2022.01.23-20.35.57:243][ 52]LogAudioMixer: Display: 5: BackRight
+[2022.01.23-20.35.57:243][ 52]LogAudioMixer: Display: 6: SideLeft
+[2022.01.23-20.35.57:243][ 52]LogAudioMixer: Display: 7: SideRight
+[2022.01.23-20.35.57:252][ 52]LogAudioMixer: Display: Using Audio Device Lautsprecher (Logitech G933 Gaming Headset)
+[2022.01.23-20.35.57:252][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-20.35.57:253][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-20.35.57:253][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-20.35.57:253][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-20.35.57:253][ 52]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-20.35.57:253][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.23-20.35.57:254][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-20.35.57:254][ 52]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-20.35.57:254][ 52]LogInit: FAudioDevice initialized.
+[2022.01.23-20.35.57:254][ 52]LogAudio: Display: Audio Device (ID: 13) registered with world 'LvL_Tree'.
+[2022.01.23-20.35.57:311][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.35.57:311][ 52]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.23-20.35.57:312][ 52]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree up for play (max tick rate 0) at 2022.01.23-21.35.57
+[2022.01.23-20.35.57:312][ 52]LogWorld: Bringing up level for play took: 0.000535
+[2022.01.23-20.35.57:312][ 52]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.01.23-20.35.57:319][ 52]PIE: Server logged in
+[2022.01.23-20.35.57:320][ 52]PIE: Play in editor total start time 0,158 seconds.
+[2022.01.23-20.35.58:222][148]LogBlueprintUserMessages: [BP_GlowingTree_01_5] Left TREE area
+[2022.01.23-20.35.58:885][225]LogBlueprintUserMessages: [BP_GlowingTree_01_5] Entered TREE area
+[2022.01.23-20.35.59:259][267]LogBlueprintUserMessages: [BP_Player_C_0] BP_GlowingTree_01
+[2022.01.23-20.36.02:020][419]LogScript: Warning: Runaway loop detected (over 1.000.000 iterations) - see log for stack trace
+	BP_GlowingTree_01_C /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree:PersistentLevel.BP_GlowingTree_01_5
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_Master.BP_GlowingTree_Master_C:ExecuteUbergraph_BP_GlowingTree_Master:0711
+[2022.01.23-20.36.02:020][419]PIE: Error: Infinite loop detected. Blueprint:  BP_GlowingTree_Master Function:  Branch Call Stack:  Show
+[2022.01.23-20.36.02:048][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.36.02:048][419]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.36.02:049][419]LogSlate: Window 'marama Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.23-20.36.02:052][419]LogWorld: UWorld::CleanupWorld for LvL_Tree, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.36.02:053][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.36.02:059][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-20.36.02:070][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.36.02:114][419]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.23-20.36.02:114][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.36.02:115][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.36.02:126][419]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.01.23-20.36.02:202][420]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.01.23-20.36.41:052][869]LogEditorTransaction: Undo Create Actors
+[2022.01.23-20.36.53:875][182]Cmd: TRANSACTION UNDO
+[2022.01.23-20.36.53:875][182]LogEditorTransaction: Undo Create Pin Link
+[2022.01.23-20.36.57:394][557]Cmd: TRANSACTION UNDO
+[2022.01.23-20.36.57:394][557]LogEditorTransaction: Undo Move Node
+[2022.01.23-20.36.59:974][793]Cmd: TRANSACTION UNDO
+[2022.01.23-20.36.59:974][793]LogEditorTransaction: Undo Delete current selection
+[2022.01.23-20.37.00:424][829]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.00:424][829]LogEditorTransaction: Undo Add Node
+[2022.01.23-20.37.00:794][857]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.00:794][857]LogEditorTransaction: Undo Move Node
+[2022.01.23-20.37.01:151][889]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.01:151][889]LogEditorTransaction: Undo Add Node
+[2022.01.23-20.37.01:493][923]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.01:493][923]LogEditorTransaction: Undo Delete current selection
+[2022.01.23-20.37.01:839][958]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.01:839][958]LogEditorTransaction: Undo Replace component used material
+[2022.01.23-20.37.03:689][150]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.03:689][150]LogEditorTransaction: Undo Edit Static Mesh
+[2022.01.23-20.37.04:112][193]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.04:112][193]LogEditorTransaction: Undo Add Component
+[2022.01.23-20.37.04:117][193]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_82 via property Mesh, but TRASH_StaticMeshComponent_82 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_3:PersistentLevel.BP_GlowingTree_01_C_0
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.04:119][193]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_82 via property Mesh, but TRASH_StaticMeshComponent_82 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_3:PersistentLevel.BP_GlowingTree_01_C_0
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.04:120][193]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_58 via property Mesh, but TRASH_StaticMeshComponent_58 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_8:PersistentLevel.BP_GlowingTree_01_C_32
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.04:464][229]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.04:464][229]LogEditorTransaction: Undo Remove Components
+[2022.01.23-20.37.04:469][229]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_82 via property Mesh, but TRASH_StaticMeshComponent_82 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_3:PersistentLevel.BP_GlowingTree_01_C_0
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.04:471][229]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_82 via property Mesh, but TRASH_StaticMeshComponent_82 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_3:PersistentLevel.BP_GlowingTree_01_C_0
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.04:471][229]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_58 via property Mesh, but TRASH_StaticMeshComponent_58 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_8:PersistentLevel.BP_GlowingTree_01_C_32
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.04:806][262]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.04:806][262]LogEditorTransaction: Undo Add Component
+[2022.01.23-20.37.04:811][262]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_82 via property Mesh, but TRASH_StaticMeshComponent_82 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_3:PersistentLevel.BP_GlowingTree_01_C_0
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.04:813][262]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_82 via property Mesh, but TRASH_StaticMeshComponent_82 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_3:PersistentLevel.BP_GlowingTree_01_C_0
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.04:814][262]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_58 via property Mesh, but TRASH_StaticMeshComponent_58 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_8:PersistentLevel.BP_GlowingTree_01_C_32
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.05:159][297]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.05:159][297]LogEditorTransaction: Undo Remove Components
+[2022.01.23-20.37.05:163][297]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_82 via property Mesh, but TRASH_StaticMeshComponent_82 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_3:PersistentLevel.BP_GlowingTree_01_C_0
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.05:165][297]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_82 via property Mesh, but TRASH_StaticMeshComponent_82 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_3:PersistentLevel.BP_GlowingTree_01_C_0
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.05:166][297]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_58 via property Mesh, but TRASH_StaticMeshComponent_58 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_8:PersistentLevel.BP_GlowingTree_01_C_32
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.05:515][333]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.05:515][333]LogEditorTransaction: Undo Add Component
+[2022.01.23-20.37.05:520][333]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_82 via property Mesh, but TRASH_StaticMeshComponent_82 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_3:PersistentLevel.BP_GlowingTree_01_C_0
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.05:521][333]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_58 via property Mesh, but TRASH_StaticMeshComponent_58 is pending kill
+	BP_GlowingTree_01_C /Engine/Transient.World_8:PersistentLevel.BP_GlowingTree_01_C_32
+	Function /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C:UserConstructionScript:0023
+[2022.01.23-20.37.05:864][369]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.05:864][369]LogEditorTransaction: Undo Create Pin Link
+[2022.01.23-20.37.06:232][401]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.06:232][401]LogEditorTransaction: Undo Create Pin Link
+[2022.01.23-20.37.06:658][443]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.06:658][443]LogEditorTransaction: Undo Move Node
+[2022.01.23-20.37.07:106][487]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.07:106][487]LogEditorTransaction: Undo Add Node
+[2022.01.23-20.37.07:528][528]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.07:528][528]LogEditorTransaction: Undo Delete current selection
+[2022.01.23-20.37.08:170][592]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.08:170][592]LogEditorTransaction: Undo Move Node
+[2022.01.23-20.37.09:066][685]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.09:066][685]LogEditorTransaction: Undo Delete current selection
+[2022.01.23-20.37.09:472][723]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.09:472][723]LogEditorTransaction: Undo Create Pin Link
+[2022.01.23-20.37.09:820][755]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.09:820][755]LogEditorTransaction: Undo Create Pin Link
+[2022.01.23-20.37.10:154][786]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.10:154][786]LogEditorTransaction: Undo Move Node
+[2022.01.23-20.37.10:496][817]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.10:496][817]LogEditorTransaction: Undo Add Node
+[2022.01.23-20.37.10:844][848]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.10:844][848]LogEditorTransaction: Undo Remove Components
+[2022.01.23-20.37.11:206][880]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.11:206][880]LogEditorTransaction: Undo Move Node
+[2022.01.23-20.37.11:556][912]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.11:556][912]LogEditorTransaction: Undo Move Node
+[2022.01.23-20.37.11:923][947]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.11:923][947]LogEditorTransaction: Undo Move Nodes
+[2022.01.23-20.37.14:258][200]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.14:259][200]LogEditorTransaction: Undo Create Pin Link
+[2022.01.23-20.37.14:838][258]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.14:838][258]LogEditorTransaction: Undo Delete current selection
+[2022.01.23-20.37.16:102][390]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.16:102][390]LogEditorTransaction: Undo Create Pin Link
+[2022.01.23-20.37.16:620][439]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.16:620][439]LogEditorTransaction: Undo Create Pin Link
+[2022.01.23-20.37.17:119][488]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.17:119][488]LogEditorTransaction: Undo Move Node
+[2022.01.23-20.37.19:120][700]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.19:120][700]LogEditorTransaction: Undo Move Nodes
+[2022.01.23-20.37.25:884][436]Cmd: TRANSACTION REDO
+[2022.01.23-20.37.25:884][436]LogEditorTransaction: Redo Move Nodes
+[2022.01.23-20.37.27:447][556]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.27:447][556]LogEditorTransaction: Undo Move Nodes
+[2022.01.23-20.37.27:787][584]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.27:787][584]LogEditorTransaction: Undo Move Nodes
+[2022.01.23-20.37.28:238][628]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.28:238][628]LogEditorTransaction: Undo Move Node
+[2022.01.23-20.37.29:478][758]Cmd: TRANSACTION REDO
+[2022.01.23-20.37.29:478][758]LogEditorTransaction: Redo Move Node
+[2022.01.23-20.37.29:868][793]Cmd: TRANSACTION REDO
+[2022.01.23-20.37.29:868][793]LogEditorTransaction: Redo Move Nodes
+[2022.01.23-20.37.30:332][837]Cmd: TRANSACTION REDO
+[2022.01.23-20.37.30:332][837]LogEditorTransaction: Redo Move Nodes
+[2022.01.23-20.37.30:708][873]Cmd: TRANSACTION REDO
+[2022.01.23-20.37.30:708][873]LogEditorTransaction: Redo Move Node
+[2022.01.23-20.37.34:023][230]Cmd: TRANSACTION UNDO
+[2022.01.23-20.37.34:023][230]LogEditorTransaction: Undo Move Node
+[2022.01.23-20.37.37:228][493]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.37.37:239][493]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Mesh" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Mesh
+[2022.01.23-20.37.37:239][493]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Set Dynamic Material
+[2022.01.23-20.37.37:243][493]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.37.37:243][493]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.37.37:340][493]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2022.01.23-20.37.49:496][623]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.37.49:503][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.37.49:503][623]BlueprintLog: Warning: Blueprint failed to compile:  BP_GlowingTree_01
+[2022.01.23-20.37.49:503][623]LogCustomDialog: Dialog displayed:
+[2022.01.23-20.37.53:893][623]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.01.23-20.38.03:940][710]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.38.03:943][710]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Mesh" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Get Mesh
+[2022.01.23-20.38.03:943][710]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] Could not find a variable named "Dynamic Material" in 'BP_GlowingTree_01_C'.
+Make sure 'BP_GlowingTree_01_C' has been compiled for  Set Dynamic Material
+[2022.01.23-20.38.03:944][710]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.38.03:944][710]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01 (no disk path found): [Compiler] The property associated with  Dynamic Material  could not be found in '/Game/Blueprints/Actors/GlowingTree/BP_GlowingTree_01.BP_GlowingTree_01_C'
+[2022.01.23-20.38.04:017][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2022.01.23-20.38.53:592][413]LogContentBrowser: Verbose: The majority of assets in the view are of type: Material
+[2022.01.23-20.39.34:428][141]BlueprintLog: New page: Compile WBP_HoldInteraction
+[2022.01.23-20.39.34:525][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2022.01.23-20.39.51:500][ 10]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.39.51:577][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2022.01.23-20.39.52:804][131]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.39.52:811][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.39.52:811][131]PIE: New page: PIE session: LvL_Tree (23.01.2022, 22:39:52)
+[2022.01.23-20.39.52:811][131]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.39.52:812][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001568s)
+[2022.01.23-20.39.52:813][131]LogAIModule: Creating AISystem for world LvL_Tree
+[2022.01.23-20.39.52:813][131]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2022.01.23-20.39.52:814][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LvL_Tree.LvL_Tree to /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree (0.002699s)
+[2022.01.23-20.39.52:861][131]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2022.01.23-20.39.52:862][131]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.01.23-20.39.52:862][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-20.39.52:862][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-20.39.52:862][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-20.39.52:862][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-20.39.52:862][131]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-20.39.52:862][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-20.39.52:862][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-20.39.52:862][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-20.39.52:862][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-20.39.52:862][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-20.39.52:862][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-20.39.52:862][131]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-20.39.52:868][131]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-20.39.52:868][131]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-20.39.52:868][131]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.23-20.39.52:868][131]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.23-20.39.52:868][131]LogAudioMixer: Display: 4: BackLeft
+[2022.01.23-20.39.52:868][131]LogAudioMixer: Display: 5: BackRight
+[2022.01.23-20.39.52:868][131]LogAudioMixer: Display: 6: SideLeft
+[2022.01.23-20.39.52:868][131]LogAudioMixer: Display: 7: SideRight
+[2022.01.23-20.39.52:885][131]LogAudioMixer: Display: Using Audio Device Lautsprecher (Logitech G933 Gaming Headset)
+[2022.01.23-20.39.52:886][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-20.39.52:886][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-20.39.52:886][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-20.39.52:886][131]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-20.39.52:886][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-20.39.52:886][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.23-20.39.52:887][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-20.39.52:887][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-20.39.52:887][131]LogInit: FAudioDevice initialized.
+[2022.01.23-20.39.52:887][131]LogAudio: Display: Audio Device (ID: 14) registered with world 'LvL_Tree'.
+[2022.01.23-20.39.52:936][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.39.52:936][131]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.23-20.39.52:937][131]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree up for play (max tick rate 0) at 2022.01.23-21.39.52
+[2022.01.23-20.39.52:937][131]LogWorld: Bringing up level for play took: 0.000408
+[2022.01.23-20.39.52:937][131]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.01.23-20.39.52:943][131]PIE: Server logged in
+[2022.01.23-20.39.52:944][131]PIE: Play in editor total start time 0,134 seconds.
+[2022.01.23-20.39.55:100][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.39.55:100][378]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.39.55:101][378]LogSlate: Window 'marama Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.23-20.39.55:104][378]LogWorld: UWorld::CleanupWorld for LvL_Tree, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.39.55:104][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.39.55:113][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-20.39.55:120][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.39.55:162][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.23-20.39.55:162][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.39.55:163][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.39.55:169][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.01.23-20.39.55:191][379]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.01.23-20.40.12:644][339]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2022.01.23-20.40.15:656][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LvL_Tree" FILE="../../../../../../Users/david/Documents/Unreal Projects/marama/Content/Levels/LvL_Tree.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.23-20.40.15:703][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.01.23-20.40.15:712][660]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/LvL_TreeE854665E49149B9AB123F580F36FFF6B.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/marama/Content/Levels/LvL_Tree.umap'
+[2022.01.23-20.40.15:730][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LvL_Tree_BuiltData" FILE="../../../../../../Users/david/Documents/Unreal Projects/marama/Content/Levels/LvL_Tree_BuiltData.uasset" SILENT=true
+[2022.01.23-20.40.15:741][660]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/LvL_Tree_BuiltData16A0C7B54F7B52D6BE45CAAE09A35D95.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/marama/Content/Levels/LvL_Tree_BuiltData.uasset'
+[2022.01.23-20.40.15:754][660]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.23-20.40.15:754][660]LogContentValidation: Display: Validating World /Game/Levels/LvL_Tree.LvL_Tree
+[2022.01.23-20.40.15:754][660]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/LvL_Tree_BuiltData.LvL_Tree_BuiltData
+[2022.01.23-20.40.16:583][737]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.40.16:589][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.40.16:589][737]PIE: New page: PIE session: LvL_Tree (23.01.2022, 22:40:16)
+[2022.01.23-20.40.16:590][737]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.40.16:591][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001867s)
+[2022.01.23-20.40.16:592][737]LogAIModule: Creating AISystem for world LvL_Tree
+[2022.01.23-20.40.16:592][737]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2022.01.23-20.40.16:592][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LvL_Tree.LvL_Tree to /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree (0.002836s)
+[2022.01.23-20.40.16:643][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.01.23-20.40.16:644][737]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.01.23-20.40.16:644][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-20.40.16:644][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-20.40.16:644][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-20.40.16:644][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-20.40.16:644][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-20.40.16:644][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-20.40.16:644][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-20.40.16:644][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-20.40.16:645][737]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-20.40.16:645][737]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-20.40.16:645][737]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-20.40.16:645][737]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-20.40.16:650][737]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-20.40.16:650][737]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-20.40.16:650][737]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.23-20.40.16:650][737]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.23-20.40.16:650][737]LogAudioMixer: Display: 4: BackLeft
+[2022.01.23-20.40.16:650][737]LogAudioMixer: Display: 5: BackRight
+[2022.01.23-20.40.16:650][737]LogAudioMixer: Display: 6: SideLeft
+[2022.01.23-20.40.16:650][737]LogAudioMixer: Display: 7: SideRight
+[2022.01.23-20.40.16:660][737]LogAudioMixer: Display: Using Audio Device Lautsprecher (Logitech G933 Gaming Headset)
+[2022.01.23-20.40.16:660][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-20.40.16:660][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-20.40.16:660][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-20.40.16:660][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-20.40.16:660][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-20.40.16:660][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.23-20.40.16:661][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-20.40.16:661][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-20.40.16:661][737]LogInit: FAudioDevice initialized.
+[2022.01.23-20.40.16:661][737]LogAudio: Display: Audio Device (ID: 15) registered with world 'LvL_Tree'.
+[2022.01.23-20.40.16:671][737]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.23-20.40.16:672][737]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree up for play (max tick rate 0) at 2022.01.23-21.40.16
+[2022.01.23-20.40.16:672][737]LogWorld: Bringing up level for play took: 0.000503
+[2022.01.23-20.40.16:672][737]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.01.23-20.40.16:677][737]PIE: Server logged in
+[2022.01.23-20.40.16:677][737]PIE: Play in editor total start time 0,089 seconds.
+[2022.01.23-20.40.20:889][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.40.20:889][186]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.40.20:889][186]LogWorld: UWorld::CleanupWorld for LvL_Tree, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.40.20:889][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.40.20:895][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-20.40.20:906][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.40.20:947][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.40.20:947][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.40.20:948][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.40.20:955][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.01.23-20.40.20:976][187]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.01.23-20.40.22:092][307]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.40.22:098][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.40.22:098][307]PIE: New page: PIE session: LvL_Tree (23.01.2022, 22:40:22)
+[2022.01.23-20.40.22:098][307]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.40.22:100][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001902s)
+[2022.01.23-20.40.22:101][307]LogAIModule: Creating AISystem for world LvL_Tree
+[2022.01.23-20.40.22:101][307]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2022.01.23-20.40.22:101][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LvL_Tree.LvL_Tree to /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree (0.003192s)
+[2022.01.23-20.40.22:146][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.01.23-20.40.22:147][307]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.01.23-20.40.22:147][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-20.40.22:147][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-20.40.22:147][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-20.40.22:147][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-20.40.22:147][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-20.40.22:147][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-20.40.22:148][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-20.40.22:148][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-20.40.22:148][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-20.40.22:148][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-20.40.22:148][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-20.40.22:148][307]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-20.40.22:153][307]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-20.40.22:153][307]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-20.40.22:153][307]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.23-20.40.22:153][307]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.23-20.40.22:153][307]LogAudioMixer: Display: 4: BackLeft
+[2022.01.23-20.40.22:153][307]LogAudioMixer: Display: 5: BackRight
+[2022.01.23-20.40.22:153][307]LogAudioMixer: Display: 6: SideLeft
+[2022.01.23-20.40.22:153][307]LogAudioMixer: Display: 7: SideRight
+[2022.01.23-20.40.22:162][307]LogAudioMixer: Display: Using Audio Device Lautsprecher (Logitech G933 Gaming Headset)
+[2022.01.23-20.40.22:162][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-20.40.22:163][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-20.40.22:163][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-20.40.22:163][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-20.40.22:163][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-20.40.22:163][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.23-20.40.22:164][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-20.40.22:164][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-20.40.22:164][307]LogInit: FAudioDevice initialized.
+[2022.01.23-20.40.22:164][307]LogAudio: Display: Audio Device (ID: 16) registered with world 'LvL_Tree'.
+[2022.01.23-20.40.22:171][307]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.23-20.40.22:172][307]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree up for play (max tick rate 0) at 2022.01.23-21.40.22
+[2022.01.23-20.40.22:172][307]LogWorld: Bringing up level for play took: 0.000476
+[2022.01.23-20.40.22:172][307]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.01.23-20.40.22:177][307]PIE: Server logged in
+[2022.01.23-20.40.22:177][307]PIE: Play in editor total start time 0,08 seconds.
+[2022.01.23-20.40.23:465][449]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Entered TREE area
+[2022.01.23-20.40.23:961][506]LogBlueprintUserMessages: [BP_Player_C_0] BP_GlowingTree_01
+[2022.01.23-20.40.29:902][196]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Left TREE area
+[2022.01.23-20.40.31:176][343]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Entered TREE area
+[2022.01.23-20.40.33:708][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.40.33:709][633]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.40.33:709][633]LogWorld: UWorld::CleanupWorld for LvL_Tree, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.40.33:709][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.40.33:718][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-20.40.33:728][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.40.33:769][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.40.33:770][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.40.33:771][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.40.33:777][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.01.23-20.40.33:810][634]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.01.23-20.40.56:727][259]BlueprintLog: New page: Compile WBP_HoldInteraction
+[2022.01.23-20.40.56:806][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.01.23-20.40.57:797][360]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.40.57:804][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.40.57:804][360]PIE: New page: PIE session: LvL_Tree (23.01.2022, 22:40:57)
+[2022.01.23-20.40.57:804][360]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.40.57:806][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001990s)
+[2022.01.23-20.40.57:807][360]LogAIModule: Creating AISystem for world LvL_Tree
+[2022.01.23-20.40.57:807][360]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2022.01.23-20.40.57:807][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LvL_Tree.LvL_Tree to /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree (0.003179s)
+[2022.01.23-20.40.57:854][360]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2022.01.23-20.40.57:854][360]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.01.23-20.40.57:854][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-20.40.57:854][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-20.40.57:854][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-20.40.57:854][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-20.40.57:854][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-20.40.57:854][360]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-20.40.57:854][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-20.40.57:854][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-20.40.57:855][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-20.40.57:855][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-20.40.57:855][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-20.40.57:855][360]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-20.40.57:860][360]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-20.40.57:860][360]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-20.40.57:860][360]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.23-20.40.57:860][360]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.23-20.40.57:860][360]LogAudioMixer: Display: 4: BackLeft
+[2022.01.23-20.40.57:860][360]LogAudioMixer: Display: 5: BackRight
+[2022.01.23-20.40.57:860][360]LogAudioMixer: Display: 6: SideLeft
+[2022.01.23-20.40.57:860][360]LogAudioMixer: Display: 7: SideRight
+[2022.01.23-20.40.57:869][360]LogAudioMixer: Display: Using Audio Device Lautsprecher (Logitech G933 Gaming Headset)
+[2022.01.23-20.40.57:870][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-20.40.57:870][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-20.40.57:870][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-20.40.57:870][360]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-20.40.57:870][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-20.40.57:870][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.23-20.40.57:871][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-20.40.57:871][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-20.40.57:871][360]LogInit: FAudioDevice initialized.
+[2022.01.23-20.40.57:871][360]LogAudio: Display: Audio Device (ID: 17) registered with world 'LvL_Tree'.
+[2022.01.23-20.40.57:905][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.40.57:905][360]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.23-20.40.57:906][360]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree up for play (max tick rate 0) at 2022.01.23-21.40.57
+[2022.01.23-20.40.57:906][360]LogWorld: Bringing up level for play took: 0.000542
+[2022.01.23-20.40.57:906][360]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.01.23-20.40.57:912][360]PIE: Server logged in
+[2022.01.23-20.40.57:913][360]PIE: Play in editor total start time 0,109 seconds.
+[2022.01.23-20.40.59:445][534]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Entered TREE area
+[2022.01.23-20.40.59:971][597]LogBlueprintUserMessages: [BP_Player_C_0] BP_GlowingTree_01
+[2022.01.23-20.41.06:459][375]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Left TREE area
+[2022.01.23-20.41.09:757][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.41.09:757][762]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.41.09:758][762]LogSlate: Window 'marama Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.23-20.41.09:762][762]LogWorld: UWorld::CleanupWorld for LvL_Tree, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.41.09:763][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.41.09:772][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-20.41.09:783][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.41.09:824][762]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.23-20.41.09:824][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.41.09:825][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.41.09:833][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.01.23-20.41.09:854][763]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.01.23-20.41.16:628][541]BlueprintLog: New page: Compile WBP_HoldInteraction
+[2022.01.23-20.41.16:695][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.01.23-20.41.17:245][601]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/WBP_HoldInteractionAD36BBD540B9BB844FD8A9A5B191993D.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/marama/Content/Blueprints/UI/NPC/WBP_HoldInteraction.uasset'
+[2022.01.23-20.41.17:263][601]AssetCheck: New page: Asset Save: WBP_HoldInteraction
+[2022.01.23-20.41.17:263][601]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/NPC/WBP_HoldInteraction.WBP_HoldInteraction
+[2022.01.23-20.41.21:092][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LvL_Tree" FILE="../../../../../../Users/david/Documents/Unreal Projects/marama/Content/Levels/LvL_Tree.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.23-20.41.21:141][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.01.23-20.41.21:151][ 19]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/LvL_TreeB47970E34400C6E9E5F6638880A4F733.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/marama/Content/Levels/LvL_Tree.umap'
+[2022.01.23-20.41.21:163][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LvL_Tree_BuiltData" FILE="../../../../../../Users/david/Documents/Unreal Projects/marama/Content/Levels/LvL_Tree_BuiltData.uasset" SILENT=true
+[2022.01.23-20.41.21:175][ 19]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/marama/Saved/LvL_Tree_BuiltData91C9D328448C5996527650A6DF99E37E.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/marama/Content/Levels/LvL_Tree_BuiltData.uasset'
+[2022.01.23-20.41.21:188][ 19]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.23-20.41.21:188][ 19]LogContentValidation: Display: Validating World /Game/Levels/LvL_Tree.LvL_Tree
+[2022.01.23-20.41.21:188][ 19]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/LvL_Tree_BuiltData.LvL_Tree_BuiltData
+[2022.01.23-20.41.24:010][316]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.41.24:017][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.41.24:017][316]PIE: New page: PIE session: LvL_Tree (23.01.2022, 22:41:24)
+[2022.01.23-20.41.24:017][316]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.41.24:019][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001871s)
+[2022.01.23-20.41.24:020][316]LogAIModule: Creating AISystem for world LvL_Tree
+[2022.01.23-20.41.24:020][316]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2022.01.23-20.41.24:020][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LvL_Tree.LvL_Tree to /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree (0.003033s)
+[2022.01.23-20.41.24:065][316]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.01.23-20.41.24:067][316]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.01.23-20.41.24:067][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-20.41.24:067][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-20.41.24:067][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-20.41.24:067][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-20.41.24:067][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-20.41.24:067][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-20.41.24:067][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-20.41.24:067][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-20.41.24:068][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-20.41.24:068][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-20.41.24:068][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-20.41.24:068][316]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-20.41.24:073][316]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-20.41.24:073][316]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-20.41.24:073][316]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.23-20.41.24:073][316]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.23-20.41.24:073][316]LogAudioMixer: Display: 4: BackLeft
+[2022.01.23-20.41.24:073][316]LogAudioMixer: Display: 5: BackRight
+[2022.01.23-20.41.24:073][316]LogAudioMixer: Display: 6: SideLeft
+[2022.01.23-20.41.24:073][316]LogAudioMixer: Display: 7: SideRight
+[2022.01.23-20.41.24:082][316]LogAudioMixer: Display: Using Audio Device Lautsprecher (Logitech G933 Gaming Headset)
+[2022.01.23-20.41.24:082][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-20.41.24:082][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-20.41.24:082][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-20.41.24:083][316]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-20.41.24:083][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-20.41.24:083][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.23-20.41.24:083][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-20.41.24:083][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-20.41.24:083][316]LogInit: FAudioDevice initialized.
+[2022.01.23-20.41.24:083][316]LogAudio: Display: Audio Device (ID: 18) registered with world 'LvL_Tree'.
+[2022.01.23-20.41.24:127][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.41.24:127][316]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.23-20.41.24:128][316]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree up for play (max tick rate 0) at 2022.01.23-21.41.24
+[2022.01.23-20.41.24:128][316]LogWorld: Bringing up level for play took: 0.000529
+[2022.01.23-20.41.24:128][316]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.01.23-20.41.24:134][316]PIE: Server logged in
+[2022.01.23-20.41.24:135][316]PIE: Play in editor total start time 0,119 seconds.
+[2022.01.23-20.41.26:146][548]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Entered TREE area
+[2022.01.23-20.41.26:646][608]LogBlueprintUserMessages: [BP_Player_C_0] BP_GlowingTree_01
+[2022.01.23-20.41.32:224][277]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Left TREE area
+[2022.01.23-20.41.33:099][382]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Entered TREE area
+[2022.01.23-20.41.33:706][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.41.33:706][451]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.41.33:706][451]LogSlate: Window 'marama Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.23-20.41.33:709][451]LogWorld: UWorld::CleanupWorld for LvL_Tree, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.41.33:709][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.41.33:717][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-20.41.33:728][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.41.33:771][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.41.33:771][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.41.33:778][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.01.23-20.41.33:796][452]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.01.23-20.41.50:481][400]BlueprintLog: New page: Compile WBP_HoldInteraction
+[2022.01.23-20.41.50:551][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.01.23-20.41.51:330][479]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.41.51:336][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.41.51:336][479]PIE: New page: PIE session: LvL_Tree (23.01.2022, 22:41:51)
+[2022.01.23-20.41.51:336][479]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.41.51:338][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001836s)
+[2022.01.23-20.41.51:339][479]LogAIModule: Creating AISystem for world LvL_Tree
+[2022.01.23-20.41.51:340][479]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2022.01.23-20.41.51:340][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LvL_Tree.LvL_Tree to /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree (0.003052s)
+[2022.01.23-20.41.51:386][479]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.01.23-20.41.51:387][479]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.01.23-20.41.51:387][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-20.41.51:387][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-20.41.51:387][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-20.41.51:387][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-20.41.51:387][479]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-20.41.51:387][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-20.41.51:387][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-20.41.51:387][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-20.41.51:387][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-20.41.51:387][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-20.41.51:387][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-20.41.51:387][479]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-20.41.51:392][479]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-20.41.51:392][479]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-20.41.51:392][479]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.23-20.41.51:392][479]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.23-20.41.51:392][479]LogAudioMixer: Display: 4: BackLeft
+[2022.01.23-20.41.51:392][479]LogAudioMixer: Display: 5: BackRight
+[2022.01.23-20.41.51:392][479]LogAudioMixer: Display: 6: SideLeft
+[2022.01.23-20.41.51:392][479]LogAudioMixer: Display: 7: SideRight
+[2022.01.23-20.41.51:402][479]LogAudioMixer: Display: Using Audio Device Lautsprecher (Logitech G933 Gaming Headset)
+[2022.01.23-20.41.51:402][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-20.41.51:402][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-20.41.51:402][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-20.41.51:402][479]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-20.41.51:402][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-20.41.51:402][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.23-20.41.51:403][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-20.41.51:403][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-20.41.51:403][479]LogInit: FAudioDevice initialized.
+[2022.01.23-20.41.51:403][479]LogAudio: Display: Audio Device (ID: 19) registered with world 'LvL_Tree'.
+[2022.01.23-20.41.51:448][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.41.51:449][479]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.23-20.41.51:449][479]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree up for play (max tick rate 0) at 2022.01.23-21.41.51
+[2022.01.23-20.41.51:450][479]LogWorld: Bringing up level for play took: 0.000606
+[2022.01.23-20.41.51:450][479]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.01.23-20.41.51:456][479]PIE: Server logged in
+[2022.01.23-20.41.51:457][479]PIE: Play in editor total start time 0,12 seconds.
+[2022.01.23-20.41.52:918][647]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Entered TREE area
+[2022.01.23-20.41.53:427][708]LogBlueprintUserMessages: [BP_Player_C_0] BP_GlowingTree_01
+[2022.01.23-20.41.54:268][809]LogBlueprintUserMessages: [BP_Player_C_0] BP_GlowingTree_01
+[2022.01.23-20.41.56:906][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.41.56:906][122]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.41.56:906][122]LogSlate: Window 'marama Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.23-20.41.56:911][122]LogWorld: UWorld::CleanupWorld for LvL_Tree, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.41.56:911][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.41.56:918][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-20.41.56:928][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.41.56:971][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.23-20.41.56:971][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.41.56:972][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.41.56:981][122]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.01.23-20.41.57:002][123]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.01.23-20.42.03:323][851]BlueprintLog: New page: Compile WBP_HoldInteraction
+[2022.01.23-20.42.03:393][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.01.23-20.42.04:192][927]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.42.04:198][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.42.04:198][927]PIE: New page: PIE session: LvL_Tree (23.01.2022, 22:42:04)
+[2022.01.23-20.42.04:198][927]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.42.04:200][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001830s)
+[2022.01.23-20.42.04:201][927]LogAIModule: Creating AISystem for world LvL_Tree
+[2022.01.23-20.42.04:201][927]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2022.01.23-20.42.04:201][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LvL_Tree.LvL_Tree to /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree (0.002875s)
+[2022.01.23-20.42.04:248][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.01.23-20.42.04:249][927]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.01.23-20.42.04:249][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-20.42.04:249][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-20.42.04:249][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-20.42.04:249][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-20.42.04:249][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-20.42.04:249][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-20.42.04:249][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-20.42.04:249][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-20.42.04:249][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-20.42.04:249][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-20.42.04:249][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-20.42.04:249][927]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-20.42.04:255][927]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-20.42.04:255][927]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-20.42.04:255][927]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.23-20.42.04:255][927]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.23-20.42.04:255][927]LogAudioMixer: Display: 4: BackLeft
+[2022.01.23-20.42.04:255][927]LogAudioMixer: Display: 5: BackRight
+[2022.01.23-20.42.04:255][927]LogAudioMixer: Display: 6: SideLeft
+[2022.01.23-20.42.04:255][927]LogAudioMixer: Display: 7: SideRight
+[2022.01.23-20.42.04:264][927]LogAudioMixer: Display: Using Audio Device Lautsprecher (Logitech G933 Gaming Headset)
+[2022.01.23-20.42.04:264][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-20.42.04:264][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-20.42.04:264][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-20.42.04:264][927]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-20.42.04:264][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-20.42.04:264][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.23-20.42.04:265][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-20.42.04:265][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-20.42.04:265][927]LogInit: FAudioDevice initialized.
+[2022.01.23-20.42.04:265][927]LogAudio: Display: Audio Device (ID: 20) registered with world 'LvL_Tree'.
+[2022.01.23-20.42.04:308][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.42.04:308][927]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.23-20.42.04:309][927]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree up for play (max tick rate 0) at 2022.01.23-21.42.04
+[2022.01.23-20.42.04:309][927]LogWorld: Bringing up level for play took: 0.000529
+[2022.01.23-20.42.04:309][927]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.01.23-20.42.04:315][927]PIE: Server logged in
+[2022.01.23-20.42.04:316][927]PIE: Play in editor total start time 0,118 seconds.
+[2022.01.23-20.42.05:579][ 72]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Entered TREE area
+[2022.01.23-20.42.06:114][136]LogBlueprintUserMessages: [BP_Player_C_0] BP_GlowingTree_01
+[2022.01.23-20.42.10:325][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.42.10:325][633]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.42.10:325][633]LogSlate: Window 'marama Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.23-20.42.10:330][633]LogWorld: UWorld::CleanupWorld for LvL_Tree, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.42.10:330][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.42.10:338][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-20.42.10:349][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.42.10:391][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.42.10:392][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.42.10:407][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.01.23-20.42.10:428][634]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.01.23-20.42.19:127][546]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.42.19:228][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.01.23-20.42.20:268][638]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-20.42.20:275][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-20.42.20:275][638]PIE: New page: PIE session: LvL_Tree (23.01.2022, 22:42:20)
+[2022.01.23-20.42.20:275][638]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.42.20:277][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001842s)
+[2022.01.23-20.42.20:278][638]LogAIModule: Creating AISystem for world LvL_Tree
+[2022.01.23-20.42.20:278][638]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2022.01.23-20.42.20:278][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LvL_Tree.LvL_Tree to /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree (0.002928s)
+[2022.01.23-20.42.20:326][638]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2022.01.23-20.42.20:326][638]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.01.23-20.42.20:326][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-20.42.20:326][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-20.42.20:326][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-20.42.20:326][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-20.42.20:326][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-20.42.20:326][638]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-20.42.20:326][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-20.42.20:326][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-20.42.20:327][638]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-20.42.20:327][638]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-20.42.20:327][638]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-20.42.20:327][638]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-20.42.20:332][638]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-20.42.20:332][638]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-20.42.20:332][638]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.23-20.42.20:332][638]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.23-20.42.20:332][638]LogAudioMixer: Display: 4: BackLeft
+[2022.01.23-20.42.20:332][638]LogAudioMixer: Display: 5: BackRight
+[2022.01.23-20.42.20:332][638]LogAudioMixer: Display: 6: SideLeft
+[2022.01.23-20.42.20:332][638]LogAudioMixer: Display: 7: SideRight
+[2022.01.23-20.42.20:341][638]LogAudioMixer: Display: Using Audio Device Lautsprecher (Logitech G933 Gaming Headset)
+[2022.01.23-20.42.20:341][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-20.42.20:341][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-20.42.20:341][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-20.42.20:342][638]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-20.42.20:342][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-20.42.20:342][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.23-20.42.20:342][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-20.42.20:343][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-20.42.20:343][638]LogInit: FAudioDevice initialized.
+[2022.01.23-20.42.20:343][638]LogAudio: Display: Audio Device (ID: 21) registered with world 'LvL_Tree'.
+[2022.01.23-20.42.20:390][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.42.20:390][638]LogLoad: Game class is 'BP_GameMode_C'
+[2022.01.23-20.42.20:391][638]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LvL_Tree.LvL_Tree up for play (max tick rate 0) at 2022.01.23-21.42.20
+[2022.01.23-20.42.20:391][638]LogWorld: Bringing up level for play took: 0.000538
+[2022.01.23-20.42.20:391][638]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.01.23-20.42.20:398][638]PIE: Server logged in
+[2022.01.23-20.42.20:400][638]PIE: Play in editor total start time 0,125 seconds.
+[2022.01.23-20.42.21:992][771]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Entered TREE area
+[2022.01.23-20.42.22:292][797]LogBlueprintUserMessages: [BP_Player_C_0] BP_GlowingTree_01
+[2022.01.23-20.42.26:534][173]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Left TREE area
+[2022.01.23-20.42.27:977][301]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Entered TREE area
+[2022.01.23-20.42.28:953][387]LogBlueprintUserMessages: [BP_GlowingTree_01_8] Left TREE area
+[2022.01.23-20.42.30:495][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-20.42.30:495][522]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LvL_Tree
+[2022.01.23-20.42.30:495][522]LogSlate: Window 'marama Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.23-20.42.30:500][522]LogWorld: UWorld::CleanupWorld for LvL_Tree, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.42.30:501][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.42.30:510][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-20.42.30:522][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.42.30:563][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.23-20.42.30:563][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.42.30:564][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-20.42.30:570][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.01.23-20.42.30:593][523]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.01.23-20.42.32:967][761]BlueprintLog: New page: Compile BP_GlowingTree_Master
+[2022.01.23-20.42.33:064][761]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.01.23-20.42.34:009][847]BlueprintLog: New page: Compile BP_Player
+[2022.01.23-20.42.34:192][847]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2022.01.23-20.42.35:316][946]BlueprintLog: New page: Compile BP_GlowingTree_01
+[2022.01.23-20.42.35:402][946]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2022.01.23-20.42.37:092][121]BlueprintLog: New page: Compile WBP_HoldInteraction
+[2022.01.23-20.42.37:164][121]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.01.23-20.42.39:890][428]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.42.39:890][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.42.39:902][428]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.42.39:902][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.42.40:670][514]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.42.40:670][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.42.41:549][596]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.23-20.42.41:549][596]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.42.41:549][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-20.42.42:447][681]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.23-20.42.42:447][681]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-20.42.42:448][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
