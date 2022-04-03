@@ -1,0 +1,93 @@
+[
+	{
+		"Name": "Deer",
+		"Mesh": "SkeletalMesh'/Game/Models/Wildlife/Deer/Deer.Deer'",
+		"Animations":
+		{
+			"IdleMain": "AnimSequence'/Game/Animations/Wildlife/Deer/Deer_Idle.Deer_Anim_AnimalArmature_Idle'",
+			"IdleVar1": "AnimSequence'/Game/Animations/Wildlife/Deer/Deer_Idle_2.Deer_Anim_AnimalArmature_Idle_2'",
+			"IdleVar2": "AnimSequence'/Game/Animations/Wildlife/Deer/Deer_Idle_Headlow.Deer_Anim_AnimalArmature_Idle_Headlow'",
+			"Walk": "AnimSequence'/Game/Animations/Wildlife/Deer/Deer_Walk.Deer_Anim_AnimalArmature_Walk'",
+			"Sprint": "AnimSequence'/Game/Animations/Wildlife/Deer/Deer_Gallop.Deer_Anim_AnimalArmature_Gallop'"
+		},
+		"AnimationBP": "AnimBlueprintGeneratedClass'/Game/Animations/Wildlife/Deer/AB_Deer.AB_Deer_C'"
+	},
+	{
+		"Name": "Aplaca",
+		"Mesh": "SkeletalMesh'/Game/Models/Wildlife/Alpaca/Alpaca.Alpaca'",
+		"Animations":
+		{
+			"IdleMain": "AnimSequence'/Game/Animations/Wildlife/Alpaca/Alpaca__Idle.Alpaca_Anim_AnimalArmature_Idle'",
+			"IdleVar1": "AnimSequence'/Game/Animations/Wildlife/Alpaca/Alpaca__Idle_2.Alpaca_Anim_AnimalArmature_Idle_2'",
+			"IdleVar2": "AnimSequence'/Game/Animations/Wildlife/Alpaca/Alpaca__Idle_Headlow.Alpaca_Anim_AnimalArmature_Idle_Headlow'",
+			"Walk": "AnimSequence'/Game/Animations/Wildlife/Alpaca/Alpaca__Walk.Alpaca_Anim_AnimalArmature_Walk'",
+			"Sprint": "AnimSequence'/Game/Animations/Wildlife/Alpaca/Alpaca__Gallop.Alpaca_Anim_AnimalArmature_Gallop'"
+		},
+		"AnimationBP": "AnimBlueprintGeneratedClass'/Game/Animations/Wildlife/Alpaca/AB_Alpaca.AB_Alpaca_C'"
+	},
+	{
+		"Name": "Cow",
+		"Mesh": "SkeletalMesh'/Game/Models/Wildlife/Cow/Cow.Cow'",
+		"Animations":
+		{
+			"IdleMain": "AnimSequence'/Game/Animations/Wildlife/Cow/Cow_Idle.Cow_Anim_AnimalArmature_Idle'",
+			"IdleVar1": "AnimSequence'/Game/Animations/Wildlife/Cow/Cow_Idle_2.Cow_Anim_AnimalArmature_Idle_2'",
+			"IdleVar2": "AnimSequence'/Game/Animations/Wildlife/Cow/Cow_Idle_Headlow.Cow_Anim_AnimalArmature_Idle_Headlow'",
+			"Walk": "AnimSequence'/Game/Animations/Wildlife/Cow/Cow_Walk.Cow_Anim_AnimalArmature_Walk'",
+			"Sprint": "AnimSequence'/Game/Animations/Wildlife/Cow/Cow_Gallop.Cow_Anim_AnimalArmature_Gallop'"
+		},
+		"AnimationBP": "AnimBlueprintGeneratedClass'/Game/Animations/Wildlife/Cow/AB_Cow.AB_Cow_C'"
+	},
+	{
+		"Name": "Fox",
+		"Mesh": "SkeletalMesh'/Game/Models/Wildlife/Fox/Fox.Fox'",
+		"Animations":
+		{
+			"IdleMain": "AnimSequence'/Game/Animations/Wildlife/Fox/Fox_Idle.Fox_Anim_AnimalArmature_Idle'",
+			"IdleVar1": "AnimSequence'/Game/Animations/Wildlife/Fox/Fox_Idle_2.Fox_Anim_AnimalArmature_Idle_2'",
+			"IdleVar2": "AnimSequence'/Game/Animations/Wildlife/Fox/Fox_Idle_2_HeadLow.Fox_Anim_AnimalArmature_Idle_2_HeadLow'",
+			"Walk": "AnimSequence'/Game/Animations/Wildlife/Fox/Fox_Walk.Fox_Anim_AnimalArmature_Walk'",
+			"Sprint": "AnimSequence'/Game/Animations/Wildlife/Fox/Fox_Gallop.Fox_Anim_AnimalArmature_Gallop'"
+		},
+		"AnimationBP": "AnimBlueprintGeneratedClass'/Game/Animations/Wildlife/Fox/AB_Fox.AB_Fox_C'"
+	},
+	{
+		"Name": "Donkey",
+		"Mesh": "SkeletalMesh'/Game/Models/Wildlife/Donkey/Donkey.Donkey'",
+		"Animations":
+		{
+			"IdleMain": "AnimSequence'/Game/Animations/Wildlife/Donkey/Donkey_Idle.Donkey_Anim_AnimalArmature_Idle'",
+			"IdleVar1": "AnimSequence'/Game/Animations/Wildlife/Donkey/Donkey_Idle_2.Donkey_Anim_AnimalArmature_Idle_2'",
+			"IdleVar2": "AnimSequence'/Game/Animations/Wildlife/Donkey/Donkey_Idle_Headlow.Donkey_Anim_AnimalArmature_Idle_Headlow'",
+			"Walk": "AnimSequence'/Game/Animations/Wildlife/Donkey/Donkey_Walk.Donkey_Anim_AnimalArmature_Walk'",
+			"Sprint": "AnimSequence'/Game/Animations/Wildlife/Donkey/Donkey_Gallop.Donkey_Anim_AnimalArmature_Gallop'"
+		},
+		"AnimationBP": "AnimBlueprintGeneratedClass'/Game/Animations/Wildlife/Donkey/AB_Donkey.AB_Donkey_C'"
+	},
+	{
+		"Name": "Stag",
+		"Mesh": "SkeletalMesh'/Game/Models/Wildlife/Stag/Stag.Stag'",
+		"Animations":
+		{
+			"IdleMain": "AnimSequence'/Game/Animations/Wildlife/Stag/Stag_Idle.Stag_Idle'",
+			"IdleVar1": "AnimSequence'/Game/Animations/Wildlife/Stag/Stag_idle_Var.Stag_idle_Var'",
+			"IdleVar2": "AnimSequence'/Game/Animations/Wildlife/Stag/Stag_Idle_Headbow.Stag_Idle_Headbow'",
+			"Walk": "AnimSequence'/Game/Animations/Wildlife/Stag/Stag_Walk.Stag_Walk'",
+			"Sprint": "AnimSequence'/Game/Animations/Wildlife/Stag/Stag_Run.Stag_Run'"
+		},
+		"AnimationBP": "AnimBlueprintGeneratedClass'/Game/Animations/Wildlife/Stag/AB_Stag.AB_Stag_C'"
+	},
+	{
+		"Name": "Bull",
+		"Mesh": "SkeletalMesh'/Game/Models/Wildlife/Bull/Bull.Bull'",
+		"Animations":
+		{
+			"IdleMain": "AnimSequence'/Game/Animations/Wildlife/Bull/Bull_Idle.Bull_Anim_AnimalArmature_Idle'",
+			"IdleVar1": "AnimSequence'/Game/Animations/Wildlife/Bull/Bull_Idle_2.Bull_Anim_AnimalArmature_Idle_2'",
+			"IdleVar2": "AnimSequence'/Game/Animations/Wildlife/Bull/Bull_Idle_Headlow.Bull_Anim_AnimalArmature_Idle_Headlow'",
+			"Walk": "AnimSequence'/Game/Animations/Wildlife/Bull/Bull_Walk.Bull_Anim_AnimalArmature_Walk'",
+			"Sprint": "AnimSequence'/Game/Animations/Wildlife/Bull/Bull_Gallop.Bull_Anim_AnimalArmature_Gallop'"
+		},
+		"AnimationBP": "AnimBlueprintGeneratedClass'/Game/Animations/Wildlife/Bull/AB_Bull.AB_Bull_C'"
+	}
+]
